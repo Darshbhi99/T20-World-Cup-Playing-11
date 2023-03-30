@@ -74,7 +74,7 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
    - Average Batting Position should be greater than 4
    - Innings Bowled is greater than 1
 
-5 Allrounders:- 
+5. Allrounders:- 
    - Should have batting average above 15
    - Strike Rate should be greater than 140
    - Total Innings batted should be greater than 2
@@ -83,7 +83,7 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
    - Bowling Economy should be less than 7
    - Bowling Strike Rate should be less than 20
 
-6 Specialist Fast Bowlers:-
+6. Specialist Fast Bowlers:-
    - Innings Bowled should be greater than 4
    - Bowling Economy should be less than 7
    - Bowling Strike Rate should be less than 16
@@ -105,20 +105,20 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
 
 ## Batting Chart
 
-![App Screenshot](https://github.com/Darshbhi99/Data-Science-Projects/blob/main/Traffic%20Sign%20Prediction/static/Traffic%20Signal%20Classifier.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/Openers.png?raw=true)
 
 
 ## Bowling Chart
 
-![App Screenshot](https://github.com/Darshbhi99/Data-Science-Projects/blob/main/Traffic%20Sign%20Prediction/static/Traffic%20Signal%20Classifier.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/bowlers.png?raw=true)
 
-## Bowling Chart
+## Player Chart
 
-![App Screenshot](https://github.com/Darshbhi99/Data-Science-Projects/blob/main/Traffic%20Sign%20Prediction/static/Traffic%20Signal%20Classifier.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playerinfo.png?raw=true)
 
 ## Selected Playing 11
 
-![App Screenshot](https://github.com/Darshbhi99/Data-Science-Projects/blob/main/Traffic%20Sign%20Prediction/static/Traffic%20Signal%20Classifier.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playing11.png?raw=true)
 
 
 ## Lessons Learned
@@ -131,5 +131,5 @@ and selecting Final 11.
 
 ## Acknowledgements
 
- - [Dataset Download]()
- - [Colab Notebook]()
+ - [Dataset Download](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/tree/main/Raw%20Data)
+ - [Colab Notebook](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/tree/main/notebooks)
