@@ -100,9 +100,6 @@ SUM(), COUNT(), AVERAGE(), DIVIDE(), ROUND(), DISTINCTCOUNT(), ISFILTERED(), IF(
 **Libraries:** Request, BeautifulSoup, Pandas, DAX
 
 
-![Logo](https://raw.githubusercontent.com/Darshbhi99/Data-Science-Projects/main/Traffic%20Sign%20Prediction/logo.png)
-
-
 ## Batting Chart
 
 ![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/Openers.png?raw=true)
