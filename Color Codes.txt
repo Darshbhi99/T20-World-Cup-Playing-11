@@ -1,0 +1,8 @@
+Color Codes
+
+PG BG = 105959
+Containers/ Shapes BG = 1D1D2E
+Container Border = 105959
+Buttons and other elements = D0CF1D  #yellow
+Highlights = E76B4C
+Visuals = F0E36F

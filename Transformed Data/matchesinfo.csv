@@ -1,0 +1,927 @@
+Team1,Team2,Winner,Margin,Ground,Date,match_id,Stage
+West Indies,England,West Indies,9 wickets,Bridgetown,22-Jan-22,T20 # 1256720,Qualifier
+West Indies,England,England,1 run,Bridgetown,23-Jan-22,T20 # 1256721,Qualifier
+West Indies,England,West Indies,20 runs,Bridgetown,26-Jan-22,T20 # 1256722,Qualifier
+West Indies,England,England,34 runs,Bridgetown,29-Jan-22,T20 # 1256723,Qualifier
+West Indies,England,West Indies,17 runs,Bridgetown,30-Jan-22,T20 # 1256724,Qualifier
+Australia,Sri Lanka,Australia,20 runs,Sydney,11-Feb-22,T20 # 1263471,Qualifier
+Oman,Nepal,Nepal,6 wickets,Al Amerat,11-Feb-22,T20 # 1299593,Qualifier
+Nepal,U.A.E.,U.A.E.,25 runs,Al Amerat,12-Feb-22,T20 # 1299638,Qualifier
+Oman,Ireland,Ireland,9 wickets,Al Amerat,12-Feb-22,T20 # 1299594,Qualifier
+Ireland,U.A.E.,U.A.E.,13 runs,Al Amerat,13-Feb-22,T20 # 1299592,Qualifier
+Australia,Sri Lanka,tied,,Sydney,13-Feb-22,T20 # 1263472,Qualifier
+Oman,U.A.E.,Oman,7 wickets,Al Amerat,14-Feb-22,T20 # 1299595,Qualifier
+Ireland,Nepal,Ireland,16 runs,Al Amerat,14-Feb-22,T20 # 1299596,Qualifier
+Australia,Sri Lanka,Australia,6 wickets,Canberra,15-Feb-22,T20 # 1263473,Qualifier
+India,West Indies,India,6 wickets,Eden Gardens,16-Feb-22,T20 # 1278679,Qualifier
+Canada,Philippines,Canada,118 runs,Al Amerat,18-Feb-22,T20 # 1299567,Qualifier
+Oman,Nepal,Nepal,39 runs,Al Amerat,18-Feb-22,T20 # 1299566,Qualifier
+Australia,Sri Lanka,Australia,6 wickets,Melbourne,18-Feb-22,T20 # 1263474,Qualifier
+Bahrain,Germany,Bahrain,6 wickets,Al Amerat,18-Feb-22,T20 # 1299569,Qualifier
+Ireland,U.A.E.,U.A.E.,18 runs,Al Amerat,18-Feb-22,T20 # 1299568,Qualifier
+India,West Indies,India,8 runs,Eden Gardens,18-Feb-22,T20 # 1278680,Qualifier
+Nepal,Philippines,Nepal,136 runs,Al Amerat,19-Feb-22,T20 # 1299571,Qualifier
+Oman,Canada,Oman,9 wickets,Al Amerat,19-Feb-22,T20 # 1299570,Qualifier
+Bahrain,Ireland,Ireland,21 runs,Al Amerat,19-Feb-22,T20 # 1299573,Qualifier
+Germany,U.A.E.,U.A.E.,24 runs,Al Amerat,19-Feb-22,T20 # 1299572,Qualifier
+Australia,Sri Lanka,Sri Lanka,5 wickets,Melbourne,20-Feb-22,T20 # 1263475,Qualifier
+India,West Indies,India,17 runs,Eden Gardens,20-Feb-22,T20 # 1278681,Qualifier
+Bahrain,U.A.E.,Bahrain,2 runs,Al Amerat,21-Feb-22,T20 # 1299575,Qualifier
+Germany,Ireland,Ireland,7 wickets,Al Amerat,21-Feb-22,T20 # 1299574,Qualifier
+Canada,Nepal,Nepal,8 wickets,Al Amerat,21-Feb-22,T20 # 1299576,Qualifier
+Oman,Philippines,Oman,9 wickets,Al Amerat,21-Feb-22,T20 # 1299577,Qualifier
+Bahrain,Philippines,Bahrain,91 runs,Al Amerat,22-Feb-22,T20 # 1299579,Qualifier
+Canada,Germany,Canada,6 wickets,Al Amerat,22-Feb-22,T20 # 1299578,Qualifier
+Nepal,U.A.E.,U.A.E.,68 runs,Al Amerat,22-Feb-22,T20 # 1299580,Qualifier
+Oman,Ireland,Ireland,56 runs,Al Amerat,22-Feb-22,T20 # 1299581,Qualifier
+Bahrain,Canada,Canada,7 wickets,Al Amerat,24-Feb-22,T20 # 1299582,Qualifier
+Germany,Philippines,Germany,9 wickets,Al Amerat,24-Feb-22,T20 # 1299583,Qualifier
+Ireland,U.A.E.,U.A.E.,7 wickets,Al Amerat,24-Feb-22,T20 # 1299585,Qualifier
+Oman,Nepal,Nepal,9 wickets,Al Amerat,24-Feb-22,T20 # 1299584,Qualifier
+India,Sri Lanka,India,62 runs,Lucknow,24-Feb-22,T20 # 1278684,Qualifier
+India,Sri Lanka,India,7 wickets,Dharamsala,26-Feb-22,T20 # 1278685,Qualifier
+India,Sri Lanka,India,6 wickets,Dharamsala,27-Feb-22,T20 # 1278686,Qualifier
+Bangladesh,Afghanistan,Bangladesh,61 runs,Mirpur,03-Mar-22,T20 # 1299832,Qualifier
+Bangladesh,Afghanistan,Afghanistan,8 wickets,Mirpur,05-Mar-22,T20 # 1299833,Qualifier
+Nepal,P.N.G.,Nepal,15 runs,Kirtipur,28-Mar-22,T20 # 1305498,Qualifier
+Malaysia,P.N.G.,Malaysia,8 runs,Kirtipur,29-Mar-22,T20 # 1305499,Qualifier
+Nepal,Malaysia,Nepal,6 wickets,Kirtipur,30-Mar-22,T20 # 1305500,Qualifier
+Nepal,P.N.G.,Nepal,37 runs,Kirtipur,31-Mar-22,T20 # 1305501,Qualifier
+Malaysia,P.N.G.,P.N.G.,8 wickets,Kirtipur,01-Apr-22,T20 # 1305502,Qualifier
+Nepal,Malaysia,Nepal,85 runs,Kirtipur,02-Apr-22,T20 # 1305503,Qualifier
+Nepal,P.N.G.,Nepal,50 runs,Kirtipur,04-Apr-22,T20 # 1305504,Qualifier
+Pakistan,Australia,Australia,3 wickets,Lahore,05-Apr-22,T20 # 1288316,Qualifier
+Namibia,Uganda,Namibia,8 wickets,Windhoek,08-Apr-22,T20 # 1309701,Qualifier
+Namibia,Uganda,Uganda,7 wickets,Windhoek,09-Apr-22,T20 # 1309702,Qualifier
+Namibia,Uganda,Namibia,52 runs,Windhoek,10-Apr-22,T20 # 1309703,Qualifier
+Cayman Is,Bahamas,Cayman Is,8 wickets,George Town,13-Apr-22,T20 # 1310156,Qualifier
+Cayman Is,Bahamas,Cayman Is,15 runs,George Town,14-Apr-22,T20 # 1310157,Qualifier
+Cayman Is,Bahamas,Cayman Is,7 wickets,George Town,16-Apr-22,T20 # 1310158,Qualifier
+Cayman Is,Bahamas,Cayman Is,65 runs,George Town,16-Apr-22,T20 # 1310159,Qualifier
+Cayman Is,Bahamas,Cayman Is,42 runs,George Town,17-Apr-22,T20 # 1310160,Qualifier
+Guernsey,Norway,Norway,37 runs,Almeria,29-Apr-22,T20 # 1310161,Qualifier
+Spain,Norway,Spain,51 runs,Almeria,30-Apr-22,T20 # 1310162,Qualifier
+Guernsey,Norway,Guernsey,8 wickets,Almeria,30-Apr-22,T20 # 1310163,Qualifier
+Spain,Guernsey,Spain,8 wickets,Almeria,30-Apr-22,T20 # 1310164,Qualifier
+Spain,Guernsey,Guernsey,8 wickets,Almeria,01-May-22,T20 # 1310165,Qualifier
+Spain,Norway,Spain,41 runs,Almeria,01-May-22,T20 # 1310166,Qualifier
+Denmark,Finland,Finland,3 wickets,Brondby,07-May-22,T20 # 1310167,Qualifier
+Denmark,Finland,Denmark,137 runs,Brondby,07-May-22,T20 # 1310168,Qualifier
+Denmark,Finland,Denmark,53 runs,Brondby,08-May-22,T20 # 1310169,Qualifier
+Malta,Gibraltar,Malta,5 wickets,Marsa,10-May-22,T20 # 1310170,Qualifier
+Malta,Hungary,Malta,45 runs,Marsa,10-May-22,T20 # 1310171,Qualifier
+Gibraltar,Hungary,Hungary,4 wickets,Marsa,10-May-22,T20 # 1310172,Qualifier
+Malta,Romania,Malta,5 wickets,Marsa,11-May-22,T20 # 1310173,Qualifier
+Czech Rep.,Gibraltar,Czech Rep.,40 runs,Marsa,11-May-22,T20 # 1310174,Qualifier
+Bulgaria,Hungary,Hungary,5 runs,Marsa,11-May-22,T20 # 1310175,Qualifier
+Malta,Czech Rep.,Malta,2 runs,Marsa,12-May-22,T20 # 1310176,Qualifier
+Bulgaria,Czech Rep.,Czech Rep.,88 runs,Marsa,12-May-22,T20 # 1310177,Qualifier
+Hungary,Romania,Hungary,6 wickets,Marsa,12-May-22,T20 # 1310178,Qualifier
+Czech Rep.,Romania,Romania,26 runs,Marsa,13-May-22,T20 # 1310180,Qualifier
+Bulgaria,Romania,Romania,8 wickets,Marsa,13-May-22,T20 # 1310181,Qualifier
+Czech Rep.,Hungary,Czech Rep.,7 wickets,Marsa,14-May-22,T20 # 1310182,Qualifier
+Gibraltar,Romania,Romania,8 wickets,Marsa,14-May-22,T20 # 1310183,Qualifier
+Malta,Bulgaria,Malta,6 wickets,Marsa,14-May-22,T20 # 1310184,Qualifier
+Bulgaria,Gibraltar,Bulgaria,5 wickets,Marsa,15-May-22,T20 # 1310185,Qualifier
+Czech Rep.,Hungary,Czech Rep.,70 runs,Marsa,15-May-22,T20 # 1310186,Qualifier
+Malta,Romania,Romania,9 runs,Marsa,15-May-22,T20 # 1310187,Qualifier
+Zimbabwe,Namibia,Zimbabwe,7 runs,Bulawayo,17-May-22,T20 # 1310938,Qualifier
+Zimbabwe,Namibia,Namibia,8 wickets,Bulawayo,19-May-22,T20 # 1310939,Qualifier
+Guernsey,Jersey,Jersey,37 runs,St Peter Port,20-May-22,T20 # 1310188,Qualifier
+Guernsey,Jersey,Jersey,60 runs,Castel,21-May-22,T20 # 1310189,Qualifier
+Zimbabwe,Namibia,Zimbabwe,8 wickets,Bulawayo,21-May-22,T20 # 1310940,Qualifier
+Guernsey,Jersey,Jersey,37 runs,Castel,21-May-22,T20 # 1310190,Qualifier
+Zimbabwe,Namibia,Namibia,6 wickets,Bulawayo,22-May-22,T20 # 1310941,Qualifier
+Zimbabwe,Namibia,Namibia,32 runs,Bulawayo,24-May-22,T20 # 1310942,Qualifier
+Austria,Hungary,Austria,105 runs,Lower Austria,04-Jun-22,T20 # 1317140,Qualifier
+Austria,Hungary,Hungary,4 wickets,Lower Austria,05-Jun-22,T20 # 1317142,Qualifier
+Sri Lanka,Australia,Australia,10 wickets,Colombo (RPS),07-Jun-22,T20 # 1307293,Qualifier
+Sri Lanka,Australia,Australia,3 wickets,Colombo (RPS),08-Jun-22,T20 # 1307294,Qualifier
+Germany,Austria,Germany,54 runs,Krefeld,09-Jun-22,T20 # 1318357,Qualifier
+India,South Africa,South Africa,7 wickets,Delhi,09-Jun-22,T20 # 1278687,Qualifier
+Germany,Sweden,Germany,4 wickets,Krefeld,09-Jun-22,T20 # 1318358,Qualifier
+Germany,Austria,Austria,38 runs,Krefeld,10-Jun-22,T20 # 1318359,Qualifier
+Austria,Sweden,Austria,3 runs,Krefeld,10-Jun-22,T20 # 1318360,Qualifier
+Belgium,Malta,Belgium,111 runs,Gent,11-Jun-22,T20 # 1318354,Qualifier
+Luxembourg,Switzerland,Luxembourg,18 runs,Walferdange,11-Jun-22,T20 # 1318352,Qualifier
+Austria,Sweden,Austria,1 run,Krefeld,11-Jun-22,T20 # 1318361,Qualifier
+Zimbabwe,Afghanistan,Afghanistan,6 wickets,Harare,11-Jun-22,T20 # 1310946,Qualifier
+Belgium,Malta,Belgium,84 runs,Gent,11-Jun-22,T20 # 1318355,Qualifier
+Luxembourg,Switzerland,Switzerland,78 runs,Walferdange,11-Jun-22,T20 # 1318353,Qualifier
+Sri Lanka,Australia,Sri Lanka,4 wickets,Pallekele,11-Jun-22,T20 # 1307295,Qualifier
+Germany,Sweden,Germany,29 runs,Krefeld,11-Jun-22,T20 # 1318362,Qualifier
+Belgium,Malta,Belgium,122 runs,Waterloo,12-Jun-22,T20 # 1318356,Qualifier
+Germany,Austria,Germany,3 wickets,Krefeld,12-Jun-22,T20 # 1318363,Qualifier
+Zimbabwe,Afghanistan,Afghanistan,21 runs,Harare,12-Jun-22,T20 # 1310947,Qualifier
+India,South Africa,South Africa,4 wickets,Cuttack,12-Jun-22,T20 # 1278688,Qualifier
+Zimbabwe,Afghanistan,Afghanistan,35 runs,Harare,14-Jun-22,T20 # 1310948,Qualifier
+India,South Africa,India,48 runs,Visakhapatnam,14-Jun-22,T20 # 1278689,Qualifier
+India,South Africa,India,82 runs,Rajkot,17-Jun-22,T20 # 1278690,Qualifier
+Finland,Estonia,Finland,23 runs,Kerava,19-Jun-22,T20 # 1317134,Qualifier
+Finland,Estonia,Finland,11 runs,Kerava,19-Jun-22,T20 # 1317135,Qualifier
+Bulgaria,Serbia,Bulgaria,6 wickets,Sofia,24-Jun-22,T20 # 1317136,Qualifier
+Bulgaria,Serbia,Bulgaria,5 wickets,Sofia,25-Jun-22,T20 # 1317137,Qualifier
+Bulgaria,Serbia,Bulgaria,40 runs,Sofia,25-Jun-22,T20 # 1317138,Qualifier
+Bulgaria,Serbia,Bulgaria,6 wickets,Sofia,26-Jun-22,T20 # 1317139,Qualifier
+Ireland,India,India,7 wickets,Dublin (Malahide),26-Jun-22,T20 # 1303307,Qualifier
+Belgium,Gibraltar,Belgium,7 wickets,Gent,28-Jun-22,T20 # 1320969,Qualifier
+Malta,Spain,Spain,6 wickets,Waterloo,28-Jun-22,T20 # 1320970,Qualifier
+Singapore,Malaysia,Singapore,4 wickets,Singapore,28-Jun-22,T20 # 1321311,Qualifier
+Denmark,Hungary,Denmark,88 runs,Gent,28-Jun-22,T20 # 1320971,Qualifier
+Israel,Portugal,Portugal,47 runs,Waterloo,28-Jun-22,T20 # 1320972,Qualifier
+Ireland,India,India,4 runs,Dublin (Malahide),28-Jun-22,T20 # 1303308,Qualifier
+Denmark,Gibraltar,Denmark,132 runs,Waterloo,29-Jun-22,T20 # 1320974,Qualifier
+Malta,Portugal,Portugal,11 runs,Gent,29-Jun-22,T20 # 1320973,Qualifier
+Singapore,Malaysia,Malaysia,23 runs,Singapore,29-Jun-22,T20 # 1321312,Qualifier
+Belgium,Hungary,Belgium,2 wickets,Waterloo,29-Jun-22,T20 # 1320976,Qualifier
+Israel,Spain,Spain,7 wickets,Gent,29-Jun-22,T20 # 1320975,Qualifier
+Singapore,Malaysia,Malaysia,5 wickets,Singapore,30-Jun-22,T20 # 1321313,Qualifier
+Gibraltar,Hungary,Gibraltar,4 wickets,Waterloo,01-Jul-22,T20 # 1320978,Qualifier
+Portugal,Spain,Spain,8 wickets,Gent,01-Jul-22,T20 # 1320977,Qualifier
+Belgium,Denmark,Belgium,12 runs,Waterloo,01-Jul-22,T20 # 1320980,Qualifier
+Israel,Malta,Malta,16 runs,Gent,01-Jul-22,T20 # 1320979,Qualifier
+Malaysia,Bhutan,Malaysia,155 runs,Bangi,02-Jul-22,T20 # 1321998,Qualifier
+Belgium,Portugal,Portugal,8 wickets,Waterloo,02-Jul-22,T20 # 1320982,Qualifier
+Singapore,P.N.G.,Singapore,18 runs,Singapore,02-Jul-22,T20 # 1322011,Qualifier
+Denmark,Spain,Denmark,41 runs,Waterloo,02-Jul-22,T20 # 1320984,Qualifier
+Maldives,Thailand,Maldives,7 wickets,Bangi,03-Jul-22,T20 # 1321999,Qualifier
+Malaysia,Bhutan,Malaysia,39 runs,Bangi,03-Jul-22,T20 # 1322000,Qualifier
+Hungary,Israel,Israel,12 runs,Waterloo,03-Jul-22,T20 # 1320985,Qualifier
+Singapore,P.N.G.,P.N.G.,3 wickets,Singapore,03-Jul-22,T20 # 1322012,Qualifier
+Gibraltar,Malta,Malta,7 wickets,Waterloo,03-Jul-22,T20 # 1320987,Qualifier
+West Indies,Bangladesh,West Indies,35 runs,Roseau,03-Jul-22,T20 # 1317150,Qualifier
+Malaysia,Thailand,Malaysia,9 wickets,Bangi,04-Jul-22,T20 # 1322001,Qualifier
+Bhutan,Maldives,Bhutan,6 runs,Bangi,04-Jul-22,T20 # 1322002,Qualifier
+Belgium,Spain,Belgium,5 wickets,Waterloo,04-Jul-22,T20 # 1320986,Qualifier
+Denmark,Portugal,Denmark,9 wickets,Waterloo,04-Jul-22,T20 # 1320988,Qualifier
+Bhutan,Thailand,Bhutan,6 wickets,Bangi,06-Jul-22,T20 # 1322003,Qualifier
+Malaysia,Maldives,Malaysia,8 wickets,Bangi,06-Jul-22,T20 # 1322004,Qualifier
+Bhutan,Maldives,Bhutan,2 runs,Bangi,07-Jul-22,T20 # 1322005,Qualifier
+Malaysia,Thailand,Malaysia,9 wickets,Bangi,07-Jul-22,T20 # 1322006,Qualifier
+England,India,India,50 runs,Southampton,07-Jul-22,T20 # 1276904,Qualifier
+West Indies,Bangladesh,West Indies,5 wickets,Providence,07-Jul-22,T20 # 1317151,Qualifier
+Maldives,Thailand,Maldives,41 runs,Bangi,08-Jul-22,T20 # 1322007,Qualifier
+Austria,Luxembourg,Austria,5 wickets,Vinor,08-Jul-22,T20 # 1321305,Qualifier
+Czech Rep.,Luxembourg,Czech Rep.,5 wickets,Vinor,08-Jul-22,T20 # 1321306,Qualifier
+Serbia,Bulgaria,Serbia,7 wickets,Belgrade,08-Jul-22,T20 # 1323550,Qualifier
+Malaysia,Maldives,Malaysia,94 runs,Bangi,09-Jul-22,T20 # 1322008,Qualifier
+Bhutan,Thailand,Bhutan,28 runs,Bangi,09-Jul-22,T20 # 1322009,Qualifier
+Czech Rep.,Austria,Austria,4 wickets,Vinor,09-Jul-22,T20 # 1321307,Qualifier
+Serbia,Bulgaria,Serbia,8 wickets,Belgrade,09-Jul-22,T20 # 1323551,Qualifier
+Austria,Luxembourg,Austria,35 runs,Vinor,09-Jul-22,T20 # 1321308,Qualifier
+Serbia,Bulgaria,Bulgaria,95 runs,Belgrade,09-Jul-22,T20 # 1323552,Qualifier
+England,India,India,49 runs,Birmingham,09-Jul-22,T20 # 1276905,Qualifier
+Czech Rep.,Luxembourg,Czech Rep.,36 runs,Vinor,10-Jul-22,T20 # 1321309,Qualifier
+Czech Rep.,Austria,Czech Rep.,6 wickets,Vinor,10-Jul-22,T20 # 1321310,Qualifier
+England,India,England,17 runs,Nottingham,10-Jul-22,T20 # 1276906,Qualifier
+Malaysia,Bhutan,Malaysia,9 wickets,Bangi,11-Jul-22,T20 # 1322010,Qualifier
+Jersey,U.S.A.,U.S.A.,8 wickets,Bulawayo,11-Jul-22,T20 # 1321466,Qualifier
+Zimbabwe,Singapore,Zimbabwe,111 runs,Bulawayo,11-Jul-22,T20 # 1321465,Qualifier
+Hong Kong,Uganda,Uganda,2 wickets,Bulawayo,11-Jul-22,T20 # 1321468,Qualifier
+Netherlands,P.N.G.,Netherlands,52 runs,Bulawayo,11-Jul-22,T20 # 1321467,Qualifier
+Singapore,U.S.A.,U.S.A.,132 runs,Bulawayo,12-Jul-22,T20 # 1321470,Qualifier
+Zimbabwe,Jersey,Zimbabwe,23 runs,Bulawayo,12-Jul-22,T20 # 1321469,Qualifier
+Cyprus,Isle of Man,Isle of Man,8 wickets,Kerava,12-Jul-22,T20 # 1321258,Qualifier
+Greece,Italy,Italy,9 wickets,Vantaa,12-Jul-22,T20 # 1321257,Qualifier
+Hong Kong,Netherlands,Netherlands,7 wickets,Bulawayo,12-Jul-22,T20 # 1321471,Qualifier
+P.N.G.,Uganda,P.N.G.,8 wickets,Bulawayo,12-Jul-22,T20 # 1321472,Qualifier
+Finland,Sweden,Finland,12 runs,Vantaa,12-Jul-22,T20 # 1321259,Qualifier
+Romania,Turkey,Romania,51 runs,Kerava,12-Jul-22,T20 # 1321260,Qualifier
+Croatia,Sweden,Sweden,8 wickets,Kerava,13-Jul-22,T20 # 1321262,Qualifier
+Cyprus,Romania,Cyprus,20 runs,Vantaa,13-Jul-22,T20 # 1321261,Qualifier
+Finland,Italy,Italy,5 wickets,Kerava,13-Jul-22,T20 # 1321264,Qualifier
+Isle of Man,Serbia,Isle of Man,68 runs,Vantaa,13-Jul-22,T20 # 1321263,Qualifier
+Hong Kong,P.N.G.,Hong Kong,2 wickets,Bulawayo,14-Jul-22,T20 # 1321474,Qualifier
+Netherlands,Uganda,Netherlands,97 runs,Bulawayo,14-Jul-22,T20 # 1321473,Qualifier
+Jersey,Singapore,Jersey,13 runs,Bulawayo,14-Jul-22,T20 # 1321476,Qualifier
+Zimbabwe,U.S.A.,Zimbabwe,46 runs,Bulawayo,14-Jul-22,T20 # 1321475,Qualifier
+Hong Kong,Singapore,Hong Kong,7 wickets,Bulawayo,15-Jul-22,T20 # 1321478,Qualifier
+Jersey,Uganda,Uganda,5 runs,Bulawayo,15-Jul-22,T20 # 1321477,Qualifier
+Italy,Sweden,Italy,91 runs,Vantaa,15-Jul-22,T20 # 1321265,Qualifier
+Serbia,Turkey,Serbia,7 wickets,Kerava,15-Jul-22,T20 # 1321266,Qualifier
+Netherlands,U.S.A.,Netherlands,7 wickets,Bulawayo,15-Jul-22,T20 # 1321480,Qualifier
+Zimbabwe,P.N.G.,Zimbabwe,27 runs,Bulawayo,15-Jul-22,T20 # 1321479,Qualifier
+Croatia,Greece,Croatia,3 runs,Vantaa,15-Jul-22,T20 # 1321267,Qualifier
+Isle of Man,Romania,Isle of Man,8 wickets,Kerava,15-Jul-22,T20 # 1321268,Qualifier
+Finland,Greece,Finland,37 runs,Kerava,16-Jul-22,T20 # 1321270,Qualifier
+Romania,Serbia,Romania,31 runs,Vantaa,16-Jul-22,T20 # 1321269,Qualifier
+Croatia,Italy,Italy,166 runs,Kerava,16-Jul-22,T20 # 1321272,Qualifier
+Cyprus,Turkey,Cyprus,135 runs,Vantaa,16-Jul-22,T20 # 1321271,Qualifier
+Hong Kong,Uganda,Uganda,4 runs,Bulawayo,17-Jul-22,T20 # 1321481,Qualifier
+Jersey,Singapore,Jersey,6 wickets,Bulawayo,17-Jul-22,T20 # 1321482,Qualifier
+P.N.G.,U.S.A.,P.N.G.,5 runs,Bulawayo,17-Jul-22,T20 # 1321483,Qualifier
+Zimbabwe,Netherlands,Zimbabwe,37 runs,Bulawayo,17-Jul-22,T20 # 1321484,Qualifier
+Cyprus,Serbia,Serbia,4 wickets,Kerava,18-Jul-22,T20 # 1321274,Qualifier
+Greece,Sweden,Sweden,107 runs,Vantaa,18-Jul-22,T20 # 1321273,Qualifier
+Finland,Croatia,Finland,5 wickets,Vantaa,18-Jul-22,T20 # 1321275,Qualifier
+Isle of Man,Turkey,Isle of Man,74 runs,Kerava,18-Jul-22,T20 # 1321276,Qualifier
+Ireland,New Zealand,New Zealand,31 runs,Belfast,18-Jul-22,T20 # 1303312,Qualifier
+Croatia,Serbia,Croatia,3 wickets,Vantaa,19-Jul-22,T20 # 1321277,Qualifier
+Finland,Cyprus,Finland,11 runs,Kerava,19-Jul-22,T20 # 1321278,Qualifier
+Isle of Man,Italy,Italy,7 wickets,Kerava,19-Jul-22,T20 # 1321280,Qualifier
+Romania,Sweden,Sweden,8 wickets,Vantaa,19-Jul-22,T20 # 1321279,Qualifier
+Ireland,New Zealand,New Zealand,88 runs,Belfast,20-Jul-22,T20 # 1303313,Qualifier
+Ireland,New Zealand,New Zealand,6 wickets,Belfast,22-Jul-22,T20 # 1303314,Qualifier
+Austria,Luxembourg,Austria,36 runs,Vantaa,24-Jul-22,T20 # 1321281,Qualifier
+Estonia,Norway,Norway,10 wickets,Kerava,24-Jul-22,T20 # 1321282,Qualifier
+Bulgaria,Guernsey,Guernsey,52 runs,Vantaa,24-Jul-22,T20 # 1321283,Qualifier
+Czech Rep.,France,France,51 runs,Kerava,24-Jul-22,T20 # 1321284,Qualifier
+Austria,Slovenia,Austria,141 runs,Kerava,25-Jul-22,T20 # 1321286,Qualifier
+Czech Rep.,Norway,Norway,120 runs,Vantaa,25-Jul-22,T20 # 1321285,Qualifier
+France,Switzerland,Switzerland,1 wicket,Vantaa,25-Jul-22,T20 # 1321287,Qualifier
+Guernsey,Luxembourg,Guernsey,17 runs,Kerava,25-Jul-22,T20 # 1321288,Qualifier
+Austria,Guernsey,Austria,2 wickets,Vantaa,27-Jul-22,T20 # 1321289,Qualifier
+Estonia,Switzerland,Switzerland,31 runs,Kerava,27-Jul-22,T20 # 1321290,Qualifier
+Bulgaria,Slovenia,Bulgaria,3 wickets,Vantaa,27-Jul-22,T20 # 1321291,Qualifier
+France,Norway,France,11 runs,Kerava,27-Jul-22,T20 # 1321292,Qualifier
+Scotland,New Zealand,New Zealand,68 runs,Edinburgh,27-Jul-22,T20 # 1307477,Qualifier
+England,South Africa,England,41 runs,Bristol,27-Jul-22,T20 # 1276913,Qualifier
+Bulgaria,Luxembourg,Luxembourg,21 runs,Kerava,28-Jul-22,T20 # 1321294,Qualifier
+Norway,Switzerland,Norway,12 runs,Vantaa,28-Jul-22,T20 # 1321293,Qualifier
+Czech Rep.,Estonia,Czech Rep.,42 runs,Vantaa,28-Jul-22,T20 # 1321295,Qualifier
+Guernsey,Slovenia,Guernsey,9 wickets,Kerava,28-Jul-22,T20 # 1321296,Qualifier
+England,South Africa,South Africa,58 runs,Cardiff,28-Jul-22,T20 # 1276914,Qualifier
+Eswatini,Mozambique,Mozambique,8 wickets,Malkerns,29-Jul-22,T20 # 1326825,Qualifier
+Eswatini,Mozambique,Mozambique,7 wickets,Malkerns,29-Jul-22,T20 # 1326826,Qualifier
+Scotland,New Zealand,New Zealand,102 runs,Edinburgh,29-Jul-22,T20 # 1307478,Qualifier
+West Indies,India,India,68 runs,Tarouba,29-Jul-22,T20 # 1317903,Qualifier
+Eswatini,Mozambique,Mozambique,8 wickets,Malkerns,30-Jul-22,T20 # 1326827,Qualifier
+Austria,Bulgaria,Austria,158 runs,Vantaa,30-Jul-22,T20 # 1321297,Qualifier
+Czech Rep.,Switzerland,Czech Rep.,7 wickets,Kerava,30-Jul-22,T20 # 1321298,Qualifier
+Zimbabwe,Bangladesh,Zimbabwe,17 runs,Harare,30-Jul-22,T20 # 1323295,Qualifier
+Eswatini,Mozambique,Mozambique,95 runs,Malkerns,30-Jul-22,T20 # 1326828,Qualifier
+Luxembourg,Slovenia,Luxembourg,5 runs,Vantaa,30-Jul-22,T20 # 1321299,Qualifier
+Estonia,France,France,25 runs,Kerava,30-Jul-22,T20 # 1321300,Qualifier
+Eswatini,Mozambique,Mozambique,94 runs,Malkerns,31-Jul-22,T20 # 1326829,Qualifier
+Bulgaria,Czech Rep.,Czech Rep.,4 wickets,Vantaa,31-Jul-22,T20 # 1321301,Qualifier
+France,Guernsey,Guernsey,56 runs,Kerava,31-Jul-22,T20 # 1321302,Qualifier
+Zimbabwe,Bangladesh,Bangladesh,7 wickets,Harare,31-Jul-22,T20 # 1323296,Qualifier
+Eswatini,Mozambique,Mozambique,43 runs,Malkerns,31-Jul-22,T20 # 1327073,Qualifier
+Austria,Norway,Austria,9 wickets,Kerava,31-Jul-22,T20 # 1321304,Qualifier
+Luxembourg,Switzerland,Luxembourg,7 runs,Vantaa,31-Jul-22,T20 # 1321303,Qualifier
+England,South Africa,South Africa,90 runs,Southampton,31-Jul-22,T20 # 1276915,Qualifier
+West Indies,India,West Indies,5 wickets,Basseterre,01-Aug-22,T20 # 1317904,Qualifier
+Zimbabwe,Bangladesh,Zimbabwe,10 runs,Harare,02-Aug-22,T20 # 1323297,Qualifier
+West Indies,India,India,7 wickets,Basseterre,02-Aug-22,T20 # 1317905,Qualifier
+Ireland,South Africa,South Africa,21 runs,Bristol,03-Aug-22,T20 # 1303315,Qualifier
+Netherlands,New Zealand,New Zealand,16 runs,The Hague,04-Aug-22,T20 # 1310901,Qualifier
+Netherlands,New Zealand,New Zealand,8 wickets,The Hague,05-Aug-22,T20 # 1310902,Qualifier
+Ireland,South Africa,South Africa,44 runs,Bristol,05-Aug-22,T20 # 1303316,Qualifier
+India,West Indies,India,59 runs,Lauderhill,06-Aug-22,T20 # 1317906,Qualifier
+India,West Indies,India,88 runs,Lauderhill,07-Aug-22,T20 # 1317907,Qualifier
+Ireland,Afghanistan,Ireland,7 wickets,Belfast,09-Aug-22,T20 # 1307159,Qualifier
+West Indies,New Zealand,New Zealand,13 runs,Kingston,10-Aug-22,T20 # 1317908,Qualifier
+Ireland,Afghanistan,Ireland,5 wickets,Belfast,11-Aug-22,T20 # 1307160,Qualifier
+Bahrain,Kuwait,tied,,Al Amerat,11-Aug-22,T20 # 1328469,Qualifier
+Ireland,Afghanistan,Afghanistan,22 runs,Belfast,12-Aug-22,T20 # 1307161,Qualifier
+West Indies,New Zealand,New Zealand,90 runs,Kingston,12-Aug-22,T20 # 1317909,Qualifier
+Bahrain,Kuwait,Kuwait,20 runs,Al Amerat,13-Aug-22,T20 # 1328470,Qualifier
+Bahrain,Kuwait,Kuwait,5 wickets,Al Amerat,14-Aug-22,T20 # 1328471,Qualifier
+West Indies,New Zealand,West Indies,8 wickets,Kingston,14-Aug-22,T20 # 1317910,Qualifier
+Ireland,Afghanistan,Afghanistan,27 runs,Belfast,15-Aug-22,T20 # 1307162,Qualifier
+Bahrain,Kuwait,Kuwait,4 wickets,Al Amerat,16-Aug-22,T20 # 1328472,Qualifier
+Ireland,Afghanistan,Ireland,7 wickets,Belfast,17-Aug-22,T20 # 1307163,Qualifier
+Bahrain,Kuwait,Kuwait,102 runs,Al Amerat,17-Aug-22,T20 # 1328473,Qualifier
+Hong Kong,Singapore,Hong Kong,8 runs,Al Amerat,20-Aug-22,T20 # 1328849,Qualifier
+Kuwait,U.A.E.,Kuwait,1 wicket,Al Amerat,21-Aug-22,T20 # 1328850,Qualifier
+Singapore,U.A.E.,U.A.E.,47 runs,Al Amerat,22-Aug-22,T20 # 1328851,Qualifier
+Hong Kong,Kuwait,Hong Kong,8 wickets,Al Amerat,23-Aug-22,T20 # 1328852,Qualifier
+Kuwait,Singapore,Kuwait,6 wickets,Al Amerat,24-Aug-22,T20 # 1328853,Qualifier
+Hong Kong,U.A.E.,Hong Kong,8 wickets,Al Amerat,24-Aug-22,T20 # 1328854,Qualifier
+Kenya,Nepal,Nepal,5 wickets,Nairobi (Gym),25-Aug-22,T20 # 1328474,Qualifier
+Kenya,Nepal,Kenya,18 runs,Nairobi (Gym),26-Aug-22,T20 # 1328475,Qualifier
+Afghanistan,Sri Lanka,Afghanistan,8 wickets,Dubai (DSC),27-Aug-22,T20 # 1327269,Qualifier
+Kenya,Nepal,Nepal,4 wickets,Nairobi (Gym),28-Aug-22,T20 # 1328476,Qualifier
+India,Pakistan,India,5 wickets,Dubai (DSC),28-Aug-22,T20 # 1327270,Qualifier
+Kenya,Nepal,Kenya,7 runs,Nairobi (Gym),29-Aug-22,T20 # 1328477,Qualifier
+Kenya,Nepal,Nepal,31 runs,Nairobi (Gym),30-Aug-22,T20 # 1328478,Qualifier
+Afghanistan,Bangladesh,Afghanistan,7 wickets,Sharjah,30-Aug-22,T20 # 1327271,Qualifier
+Hong Kong,India,India,40 runs,Dubai (DSC),31-Aug-22,T20 # 1327272,Qualifier
+Bangladesh,Sri Lanka,Sri Lanka,2 wickets,Dubai (DSC),01-Sep-22,T20 # 1327273,Qualifier
+Hong Kong,Pakistan,Pakistan,155 runs,Sharjah,02-Sep-22,T20 # 1327274,Qualifier
+Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Sharjah,03-Sep-22,T20 # 1327275,Qualifier
+India,Pakistan,Pakistan,5 wickets,Dubai (DSC),04-Sep-22,T20 # 1327276,Qualifier
+India,Sri Lanka,Sri Lanka,6 wickets,Dubai (DSC),06-Sep-22,T20 # 1327277,Qualifier
+Afghanistan,Pakistan,Pakistan,1 wicket,Sharjah,07-Sep-22,T20 # 1327278,Qualifier
+Afghanistan,India,India,101 runs,Dubai (DSC),08-Sep-22,T20 # 1327279,Qualifier
+Vanuatu,Fiji,Vanuatu,56 runs,Port vila,09-Sep-22,T20 # 1333918,Qualifier
+Cook Islands,Samoa,Samoa,7 wickets,Port vila,09-Sep-22,T20 # 1333919,Qualifier
+Pakistan,Sri Lanka,Sri Lanka,5 wickets,Dubai (DSC),09-Sep-22,T20 # 1327280,Qualifier
+Cook Islands,Fiji,Fiji,3 wickets,Port vila,10-Sep-22,T20 # 1333920,Qualifier
+Vanuatu,Samoa,Vanuatu,9 wickets,Port vila,10-Sep-22,T20 # 1333921,Qualifier
+Vanuatu,Cook Islands,Cook Islands,5 wickets,Port vila,11-Sep-22,T20 # 1333922,Qualifier
+Fiji,Samoa,Fiji,3 wickets,Port vila,11-Sep-22,T20 # 1333923,Qualifier
+Pakistan,Sri Lanka,Sri Lanka,23 runs,Dubai (DSC),11-Sep-22,T20 # 1327281,Qualifier
+Cook Islands,Samoa,Cook Islands,4 wickets,Port vila,13-Sep-22,T20 # 1333924,Qualifier
+Vanuatu,Fiji,Vanuatu,18 runs,Port vila,13-Sep-22,T20 # 1333925,Qualifier
+Vanuatu,Samoa,Vanuatu,6 wickets,Port vila,14-Sep-22,T20 # 1333926,Qualifier
+Cook Islands,Fiji,Cook Islands,8 wickets,Port vila,14-Sep-22,T20 # 1333927,Qualifier
+Fiji,Samoa,Fiji,30 runs,Port vila,15-Sep-22,T20 # 1333928,Qualifier
+Vanuatu,Cook Islands,Vanuatu,50 runs,Port vila,15-Sep-22,T20 # 1333929,Qualifier
+Botswana,Uganda,Uganda,7 wickets,Benoni,15-Sep-22,T20 # 1332496,Qualifier
+Cameroon,Malawi,Malawi,7 wickets,Benoni,15-Sep-22,T20 # 1332502,Qualifier
+Ghana,Mozambique,Ghana,28 runs,Benoni,16-Sep-22,T20 # 1332498,Qualifier
+Kenya,Malawi,Kenya,52 runs,Benoni,16-Sep-22,T20 # 1332499,Qualifier
+Cameroon,Tanzania,Tanzania,10 wickets,Benoni,17-Sep-22,T20 # 1332500,Qualifier
+Kenya,Tanzania,Tanzania,4 wickets,Benoni,17-Sep-22,T20 # 1332497,Qualifier
+Botswana,Ghana,Botswana,11 runs,Benoni,18-Sep-22,T20 # 1332507,Qualifier
+Mozambique,Uganda,Uganda,38 runs,Benoni,18-Sep-22,T20 # 1332503,Qualifier
+Cameroon,Kenya,Kenya,9 wickets,Benoni,19-Sep-22,T20 # 1332506,Qualifier
+Botswana,Mozambique,Botswana,92 runs,Benoni,19-Sep-22,T20 # 1332504,Qualifier
+Malawi,Tanzania,Tanzania,44 runs,Benoni,20-Sep-22,T20 # 1332505,Qualifier
+Ghana,Uganda,Uganda,8 wickets,Benoni,20-Sep-22,T20 # 1332501,Qualifier
+India,Australia,Australia,4 wickets,Mohali,20-Sep-22,T20 # 1327503,Qualifier
+Pakistan,England,England,6 wickets,Karachi,20-Sep-22,T20 # 1327228,Qualifier
+Kenya,Uganda,Uganda,3 wickets,Benoni,21-Sep-22,T20 # 1332508,Qualifier
+Botswana,Tanzania,Tanzania,4 wickets,Benoni,21-Sep-22,T20 # 1332509,Qualifier
+Tanzania,Uganda,Uganda,8 wickets,Benoni,22-Sep-22,T20 # 1332510,Qualifier
+Pakistan,England,Pakistan,10 wickets,Karachi,22-Sep-22,T20 # 1327229,Qualifier
+India,Australia,India,6 wickets,Nagpur,23-Sep-22,T20 # 1327504,Qualifier
+Pakistan,England,England,63 runs,Karachi,23-Sep-22,T20 # 1327230,Qualifier
+India,Australia,India,6 wickets,Hyderabad (Deccan),25-Sep-22,T20 # 1327505,Qualifier
+U.A.E.,Bangladesh,Bangladesh,7 runs,Dubai (DSC),25-Sep-22,T20 # 1336031,Qualifier
+Pakistan,England,Pakistan,3 runs,Karachi,25-Sep-22,T20 # 1327231,Qualifier
+U.A.E.,Bangladesh,Bangladesh,32 runs,Dubai (DSC),27-Sep-22,T20 # 1336032,Qualifier
+India,South Africa,India,8 wickets,Thiruvananthapuram,28-Sep-22,T20 # 1327506,Qualifier
+Pakistan,England,Pakistan,6 runs,Lahore,28-Sep-22,T20 # 1327232,Qualifier
+Pakistan,England,England,8 wickets,Lahore,30-Sep-22,T20 # 1327233,Qualifier
+India,South Africa,India,16 runs,Guwahati,02-Oct-22,T20 # 1327507,Qualifier
+Pakistan,England,England,67 runs,Lahore,02-Oct-22,T20 # 1327234,Qualifier
+India,South Africa,South Africa,49 runs,Indore,04-Oct-22,T20 # 1327508,Qualifier
+Australia,West Indies,Australia,3 wickets,Carrara,05-Oct-22,T20 # 1317482,Qualifier
+Bangladesh,Pakistan,Pakistan,21 runs,Christchurch,07-Oct-22,T20 # 1322334,Qualifier
+Australia,West Indies,Australia,31 runs,Brisbane,07-Oct-22,T20 # 1317483,Qualifier
+New Zealand,Pakistan,Pakistan,6 wickets,Christchurch,08-Oct-22,T20 # 1322335,Qualifier
+Japan,Indonesia,Japan,65 runs,Sano,09-Oct-22,T20 # 1333930,Qualifier
+New Zealand,Bangladesh,New Zealand,8 wickets,Christchurch,09-Oct-22,T20 # 1322336,Qualifier
+Australia,England,England,8 runs,Perth,09-Oct-22,T20 # 1317486,Qualifier
+Japan,Indonesia,Japan,75 runs,Sano,10-Oct-22,T20 # 1333931,Qualifier
+Japan,Indonesia,Indonesia,3 wickets,Sano,11-Oct-22,T20 # 1333932,Qualifier
+New Zealand,Pakistan,New Zealand,9 wickets,Christchurch,11-Oct-22,T20 # 1322337,Qualifier
+New Zealand,Bangladesh,New Zealand,48 runs,Christchurch,12-Oct-22,T20 # 1322338,Qualifier
+Australia,England,England,8 runs,Canberra,12-Oct-22,T20 # 1317487,Qualifier
+Bangladesh,Pakistan,Pakistan,7 wickets,Christchurch,13-Oct-22,T20 # 1322339,Qualifier
+New Zealand,Pakistan,Pakistan,5 wickets,Christchurch,14-Oct-22,T20 # 1322340,Qualifier
+Indonesia,South Korea,Indonesia,64 runs,Sano,15-Oct-22,T20 # 1336951,Qualifier
+Japan,South Korea,Japan,48 runs,Sano,15-Oct-22,T20 # 1336952,Qualifier
+Namibia,Sri Lanka,Namibia,55 runs,Geelong,16-Oct-22,T20 # 1298135,World Cup
+Japan,Indonesia,Japan,4 wickets,Sano,16-Oct-22,T20 # 1336953,Qualifier
+Netherlands,U.A.E.,Netherlands,3 wickets,Geelong,16-Oct-22,T20 # 1298136,World Cup
+Scotland,West Indies,Scotland,42 runs,Hobart,17-Oct-22,T20 # 1298137,World Cup
+Japan,South Korea,Japan,8 wickets,Sano,17-Oct-22,T20 # 1336954,Qualifier
+Ireland,Zimbabwe,Zimbabwe,31 runs,Hobart,17-Oct-22,T20 # 1298138,World Cup
+Japan,Indonesia,Indonesia,6 wickets,Sano,18-Oct-22,T20 # 1336955,Qualifier
+Namibia,Netherlands,Netherlands,5 wickets,Geelong,18-Oct-22,T20 # 1298139,World Cup
+Indonesia,South Korea,Indonesia,3 wickets,Sano,18-Oct-22,T20 # 1336956,Qualifier
+Sri Lanka,U.A.E.,Sri Lanka,79 runs,Geelong,18-Oct-22,T20 # 1298140,World Cup
+Ireland,Scotland,Ireland,6 wickets,Hobart,19-Oct-22,T20 # 1298141,World Cup
+West Indies,Zimbabwe,West Indies,31 runs,Hobart,19-Oct-22,T20 # 1298142,World Cup
+Netherlands,Sri Lanka,Sri Lanka,16 runs,Geelong,20-Oct-22,T20 # 1298143,World Cup
+Namibia,U.A.E.,U.A.E.,7 runs,Geelong,20-Oct-22,T20 # 1298144,World Cup
+Ireland,West Indies,Ireland,9 wickets,Hobart,21-Oct-22,T20 # 1298145,World Cup
+Scotland,Zimbabwe,Zimbabwe,5 wickets,Hobart,21-Oct-22,T20 # 1298146,World Cup
+Australia,New Zealand,New Zealand,89 runs,Sydney,22-Oct-22,T20 # 1298147,World Cup
+Afghanistan,England,England,5 wickets,Perth,22-Oct-22,T20 # 1298148,World Cup
+Ireland,Sri Lanka,Sri Lanka,9 wickets,Hobart,23-Oct-22,T20 # 1298149,World Cup
+India,Pakistan,India,4 wickets,Melbourne,23-Oct-22,T20 # 1298150,World Cup
+Bangladesh,Netherlands,Bangladesh,9 runs,Hobart,24-Oct-22,T20 # 1298151,World Cup
+Australia,Sri Lanka,Australia,7 wickets,Perth,25-Oct-22,T20 # 1298153,World Cup
+England,Ireland,Ireland,5 runs,Melbourne,26-Oct-22,T20 # 1298154,World Cup
+Bangladesh,South Africa,South Africa,104 runs,Sydney,27-Oct-22,T20 # 1298156,World Cup
+India,Netherlands,India,56 runs,Sydney,27-Oct-22,T20 # 1298157,World Cup
+Pakistan,Zimbabwe,Zimbabwe,1 run,Perth,27-Oct-22,T20 # 1298158,World Cup
+New Zealand,Sri Lanka,New Zealand,65 runs,Sydney,29-Oct-22,T20 # 1298161,World Cup
+Bangladesh,Zimbabwe,Bangladesh,3 runs,Brisbane,30-Oct-22,T20 # 1298162,World Cup
+Netherlands,Pakistan,Pakistan,6 wickets,Perth,30-Oct-22,T20 # 1298163,World Cup
+India,South Africa,South Africa,5 wickets,Perth,30-Oct-22,T20 # 1298164,World Cup
+Tanzania,Rwanda,Tanzania,54 runs,Dar-es-Salaam,31-Oct-22,T20 # 1342334,Qualifier
+Australia,Ireland,Australia,42 runs,Brisbane,31-Oct-22,T20 # 1298165,World Cup
+Afghanistan,Sri Lanka,Sri Lanka,6 wickets,Brisbane,01-Nov-22,T20 # 1298166,World Cup
+Tanzania,Rwanda,Tanzania,21 runs,Dar-es-Salaam,01-Nov-22,T20 # 1342335,Qualifier
+England,New Zealand,England,20 runs,Brisbane,01-Nov-22,T20 # 1298167,World Cup
+Netherlands,Zimbabwe,Netherlands,5 wickets,Adelaide,02-Nov-22,T20 # 1298168,World Cup
+Bangladesh,India,India,5 runs,Adelaide,02-Nov-22,T20 # 1298169,World Cup
+Pakistan,South Africa,Pakistan,33 runs,Sydney,03-Nov-22,T20 # 1298170,World Cup
+Ireland,New Zealand,New Zealand,35 runs,Adelaide,04-Nov-22,T20 # 1298171,World Cup
+Tanzania,Rwanda,Tanzania,77 runs,Dar-es-Salaam,04-Nov-22,T20 # 1342336,Qualifier
+Australia,Afghanistan,Australia,4 runs,Adelaide,04-Nov-22,T20 # 1298172,World Cup
+Germany,Italy,Germany,10 wickets,Almeria,04-Nov-22,T20 # 1339205,Qualifier
+Germany,Italy,Germany,8 wickets,Almeria,04-Nov-22,T20 # 1339206,Qualifier
+England,Sri Lanka,England,4 wickets,Sydney,05-Nov-22,T20 # 1298173,World Cup
+Spain,Italy,Spain,4 wickets,Almeria,05-Nov-22,T20 # 1339207,Qualifier
+Tanzania,Rwanda,Tanzania,3 wickets,Dar-es-Salaam,05-Nov-22,T20 # 1342337,Qualifier
+Spain,Germany,Germany,36 runs,Almeria,05-Nov-22,T20 # 1339208,Qualifier
+Netherlands,South Africa,Netherlands,13 runs,Adelaide,06-Nov-22,T20 # 1298174,World Cup
+Bangladesh,Pakistan,Pakistan,5 wickets,Adelaide,06-Nov-22,T20 # 1298175,World Cup
+India,Zimbabwe,India,71 runs,Melbourne,06-Nov-22,T20 # 1298176,World Cup
+Spain,Germany,Spain,5 runs,Almeria,06-Nov-22,T20 # 1339209,Qualifier
+Tanzania,Rwanda,Tanzania,10 wickets,Dar-es-Salaam,06-Nov-22,T20 # 1342338,Qualifier
+Spain,Italy,Italy,33 runs,Almeria,06-Nov-22,T20 # 1339210,Qualifier
+New Zealand,Pakistan,Pakistan,7 wickets,Sydney,09-Nov-22,T20 # 1298177,World Cup
+England,India,England,10 wickets,Adelaide,10-Nov-22,T20 # 1298178,World Cup
+England,Pakistan,England,5 wickets,Melbourne,13-Nov-22,T20 # 1298179,World Cup
+Oman,Saudi Arabia,Oman,9 wickets,Al Amerat,14-Nov-22,T20 # 1344782,Qualifier
+Bahrain,Canada,Canada,4 wickets,Al Amerat,14-Nov-22,T20 # 1344783,Qualifier
+Canada,Saudi Arabia,Canada,66 runs,Al Amerat,15-Nov-22,T20 # 1344784,Qualifier
+Oman,Bahrain,Bahrain,6 wickets,Al Amerat,15-Nov-22,T20 # 1344785,Qualifier
+Bahrain,Saudi Arabia,Bahrain,53 runs,Al Amerat,16-Nov-22,T20 # 1344786,Qualifier
+Oman,Canada,Canada,1 run,Al Amerat,16-Nov-22,T20 # 1344787,Qualifier
+Lesotho,Mali,Lesotho,31 runs,Kigali,17-Nov-22,T20 # 1343741,Qualifier
+Rwanda,Botswana,Rwanda,5 wickets,Rwanda,17-Nov-22,T20 # 1343740,Qualifier
+Oman,Saudi Arabia,Oman,7 wickets,Al Amerat,17-Nov-22,T20 # 1344788,Qualifier
+Bahrain,Canada,Bahrain,8 wickets,Al Amerat,17-Nov-22,T20 # 1344789,Qualifier
+Botswana,Lesotho,Botswana,10 wickets,Kigali,18-Nov-22,T20 # 1343745,Qualifier
+Rwanda,St Helena,Rwanda,54 runs,Rwanda,18-Nov-22,T20 # 1343744,Qualifier
+Canada,Saudi Arabia,Canada,45 runs,Al Amerat,19-Nov-22,T20 # 1344790,Qualifier
+Oman,Bahrain,Oman,106 runs,Al Amerat,19-Nov-22,T20 # 1344791,Qualifier
+New Zealand,India,India,65 runs,Mount Maunganui,20-Nov-22,T20 # 1322276,Qualifier
+Botswana,Malawi,Malawi,4 wickets,Rwanda,20-Nov-22,T20 # 1343748,Qualifier
+Kenya,Mali,Kenya,10 wickets,Kigali,20-Nov-22,T20 # 1343749,Qualifier
+Lesotho,Seychelles,Lesotho,7 wickets,Kigali,20-Nov-22,T20 # 1343751,Qualifier
+Rwanda,Kenya,Kenya,9 wickets,Rwanda,20-Nov-22,T20 # 1343750,Qualifier
+Oman,Canada,Canada,3 wickets,Al Amerat,20-Nov-22,T20 # 1344792,Qualifier
+Bahrain,Saudi Arabia,Saudi Arabia,9 wickets,Al Amerat,20-Nov-22,T20 # 1344793,Qualifier
+Kenya,Lesotho,Kenya,167 runs,Kigali,21-Nov-22,T20 # 1343753,Qualifier
+Malawi,Mali,Malawi,74 runs,Rwanda,21-Nov-22,T20 # 1343752,Qualifier
+Rwanda,Malawi,Rwanda,41 runs,Rwanda,21-Nov-22,T20 # 1343754,Qualifier
+Seychelles,St Helena,St Helena,2 runs,Kigali,21-Nov-22,T20 # 1343755,Qualifier
+Bahrain,Saudi Arabia,Saudi Arabia,32 runs,Al Amerat,21-Nov-22,T20 # 1344794,Qualifier
+Oman,Canada,Canada,8 wickets,Al Amerat,21-Nov-22,T20 # 1344795,Qualifier
+New Zealand,India,tied,,Napier,22-Nov-22,T20 # 1322277,Qualifier
+Botswana,Mali,Botswana,5 wickets,Rwanda,22-Nov-22,T20 # 1343756,Qualifier
+Lesotho,St Helena,St Helena,45 runs,Kigali,22-Nov-22,T20 # 1343757,Qualifier
+Malawi,St Helena,Malawi,10 wickets,Rwanda,24-Nov-22,T20 # 1343760,Qualifier
+Rwanda,Seychelles,Rwanda,75 runs,Kigali,24-Nov-22,T20 # 1343761,Qualifier
+Botswana,Kenya,Kenya,8 wickets,Rwanda,24-Nov-22,T20 # 1343762,Qualifier
+Rwanda,Mali,Rwanda,10 wickets,Kigali,24-Nov-22,T20 # 1343763,Qualifier
+Botswana,St Helena,Botswana,60 runs,Rwanda,25-Nov-22,T20 # 1343766,Qualifier
+Lesotho,Malawi,Malawi,118 runs,Kigali,25-Nov-22,T20 # 1343765,Qualifier
+Kenya,Seychelles,Kenya,7 wickets,Rwanda,25-Nov-22,T20 # 1343764,Qualifier
+Eswatini,Ghana,Ghana,25 runs,Kigali,01-Dec-22,T20 # 1343769,Qualifier
+Sierra Leone,Tanzania,Tanzania,9 wickets,Rwanda,01-Dec-22,T20 # 1343768,Qualifier
+Eswatini,Gambia,Eswatini,5 wickets,Kigali,01-Dec-22,T20 # 1343771,Qualifier
+Mozambique,Nigeria,Nigeria,8 wickets,Rwanda,01-Dec-22,T20 # 1343770,Qualifier
+Ghana,Mozambique,Mozambique,7 wickets,Kigali,02-Dec-22,T20 # 1343773,Qualifier
+Nigeria,Sierra Leone,Nigeria,6 wickets,Rwanda,02-Dec-22,T20 # 1343772,Qualifier
+Cameroon,Sierra Leone,Sierra Leone,1 wicket,Rwanda,02-Dec-22,T20 # 1343774,Qualifier
+Eswatini,Mozambique,Mozambique,9 wickets,Kigali,02-Dec-22,T20 # 1343775,Qualifier
+Cameroon,Mozambique,Mozambique,9 wickets,Rwanda,04-Dec-22,T20 # 1343776,Qualifier
+Eswatini,Nigeria,Nigeria,118 runs,Kigali,04-Dec-22,T20 # 1343777,Qualifier
+Gambia,Nigeria,Nigeria,9 wickets,Kigali,04-Dec-22,T20 # 1343779,Qualifier
+Ghana,Tanzania,Tanzania,4 wickets,Rwanda,04-Dec-22,T20 # 1343778,Qualifier
+Eswatini,Sierra Leone,Sierra Leone,4 runs,Kigali,05-Dec-22,T20 # 1343781,Qualifier
+Mozambique,Tanzania,Tanzania,6 wickets,Rwanda,05-Dec-22,T20 # 1343780,Qualifier
+Cameroon,Nigeria,Nigeria,17 runs,Rwanda,05-Dec-22,T20 # 1343782,Qualifier
+Ghana,Sierra Leone,Sierra Leone,18 runs,Kigali,05-Dec-22,T20 # 1343783,Qualifier
+Gambia,Sierra Leone,Sierra Leone,8 wickets,Kigali,06-Dec-22,T20 # 1343785,Qualifier
+Eswatini,Tanzania,Tanzania,66 runs,Rwanda,06-Dec-22,T20 # 1343784,Qualifier
+Cameroon,Ghana,Ghana,107 runs,Kigali,06-Dec-22,T20 # 1343787,Qualifier
+Gambia,Tanzania,Tanzania,10 wickets,Rwanda,06-Dec-22,T20 # 1343786,Qualifier
+Gambia,Ghana,Ghana,138 runs,Rwanda,08-Dec-22,T20 # 1343788,Qualifier
+Gambia,Mozambique,Mozambique,40 runs,Kigali,08-Dec-22,T20 # 1343791,Qualifier
+Cameroon,Gambia,Gambia,11 runs,Kigali,09-Dec-22,T20 # 1343793,Qualifier
+Mozambique,Sierra Leone,Mozambique,5 wickets,Rwanda,09-Dec-22,T20 # 1343792,Qualifier
+Cameroon,Tanzania,Tanzania,184 runs,Kigali,09-Dec-22,T20 # 1343795,Qualifier
+Ghana,Nigeria,Nigeria,6 wickets,Rwanda,09-Dec-22,T20 # 1343794,Qualifier
+Rwanda,Tanzania,Tanzania,66 runs,Rwanda,13-Dec-22,T20 # 1349124,Qualifier
+Rwanda,Tanzania,Tanzania,5 wickets,Rwanda,13-Dec-22,T20 # 1349125,Qualifier
+Rwanda,Uganda,Uganda,85 runs,Rwanda,14-Dec-22,T20 # 1349126,Qualifier
+Malaysia,Bahrain,Malaysia,11 runs,Bangi,15-Dec-22,T20 # 1349378,Qualifier
+Qatar,Singapore,Qatar,5 wickets,Bangi,15-Dec-22,T20 # 1349379,Qualifier
+Rwanda,Uganda,Uganda,133 runs,Rwanda,15-Dec-22,T20 # 1349128,Qualifier
+Tanzania,Uganda,Uganda,13 runs,Rwanda,15-Dec-22,T20 # 1349129,Qualifier
+Malaysia,Qatar,Malaysia,8 wickets,Bangi,16-Dec-22,T20 # 1349380,Qualifier
+Bahrain,Singapore,tied,,Bangi,16-Dec-22,T20 # 1349381,Qualifier
+Rwanda,Uganda,Uganda,97 runs,Rwanda,16-Dec-22,T20 # 1349130,Qualifier
+Rwanda,Tanzania,Rwanda,1 run,Rwanda,16-Dec-22,T20 # 1349131,Qualifier
+Bahrain,Qatar,Bahrain,13 runs,Bangi,18-Dec-22,T20 # 1349382,Qualifier
+Malaysia,Singapore,Malaysia,120 runs,Bangi,18-Dec-22,T20 # 1349383,Qualifier
+Tanzania,Uganda,Uganda,2 runs,Rwanda,18-Dec-22,T20 # 1349132,Qualifier
+Rwanda,Tanzania,Tanzania,6 wickets,Rwanda,18-Dec-22,T20 # 1349133,Qualifier
+Qatar,Singapore,Qatar,8 wickets,Bangi,19-Dec-22,T20 # 1349384,Qualifier
+Malaysia,Bahrain,Malaysia,7 wickets,Bangi,19-Dec-22,T20 # 1349385,Qualifier
+Tanzania,Uganda,Tanzania,5 wickets,Rwanda,19-Dec-22,T20 # 1349134,Qualifier
+Rwanda,Uganda,Uganda,9 wickets,Rwanda,19-Dec-22,T20 # 1349135,Qualifier
+Rwanda,Tanzania,Tanzania,31 runs,Rwanda,20-Dec-22,T20 # 1349136,Qualifier
+Rwanda,Uganda,Uganda,7 wickets,Rwanda,20-Dec-22,T20 # 1349137,Qualifier
+Bahrain,Singapore,Bahrain,6 wickets,Bangi,21-Dec-22,T20 # 1349386,Qualifier
+Malaysia,Singapore,Malaysia,143 runs,Bangi,22-Dec-22,T20 # 1349388,Qualifier
+Rwanda,Tanzania,Tanzania,28 runs,Rwanda,22-Dec-22,T20 # 1349138,Qualifier
+Pakistan,South Africa,Pakistan,3 runs,Lahore,11-Feb-21,T20 # 1243019,Qualifier
+Pakistan,South Africa,South Africa,6 wickets,Lahore,13-Feb-21,T20 # 1243020,Qualifier
+Pakistan,South Africa,Pakistan,4 wickets,Lahore,14-Feb-21,T20 # 1243021,Qualifier
+New Zealand,Australia,New Zealand,53 runs,Christchurch,22-Feb-21,T20 # 1233971,Qualifier
+New Zealand,Australia,New Zealand,4 runs,Dunedin,25-Feb-21,T20 # 1233972,Qualifier
+New Zealand,Australia,Australia,64 runs,Wellington,03-Mar-21,T20 # 1233973,Qualifier
+West Indies,Sri Lanka,West Indies,4 wickets,Coolidge,03-Mar-21,T20 # 1252066,Qualifier
+New Zealand,Australia,Australia,50 runs,Wellington,05-Mar-21,T20 # 1233974,Qualifier
+West Indies,Sri Lanka,Sri Lanka,43 runs,Coolidge,05-Mar-21,T20 # 1252067,Qualifier
+New Zealand,Australia,New Zealand,7 wickets,Wellington,07-Mar-21,T20 # 1233975,Qualifier
+West Indies,Sri Lanka,West Indies,3 wickets,Coolidge,07-Mar-21,T20 # 1252068,Qualifier
+India,England,England,8 wickets,Ahmedabad,12-Mar-21,T20 # 1243388,Qualifier
+India,England,India,7 wickets,Ahmedabad,14-Mar-21,T20 # 1243389,Qualifier
+India,England,England,8 wickets,Ahmedabad,16-Mar-21,T20 # 1243390,Qualifier
+Afghanistan,Zimbabwe,Afghanistan,48 runs,Abu Dhabi,17-Mar-21,T20 # 1252058,Qualifier
+India,England,India,8 runs,Ahmedabad,18-Mar-21,T20 # 1243391,Qualifier
+Afghanistan,Zimbabwe,Afghanistan,45 runs,Abu Dhabi,19-Mar-21,T20 # 1252059,Qualifier
+Afghanistan,Zimbabwe,Afghanistan,47 runs,Abu Dhabi,20-Mar-21,T20 # 1252060,Qualifier
+India,England,India,36 runs,Ahmedabad,20-Mar-21,T20 # 1243392,Qualifier
+New Zealand,Bangladesh,New Zealand,66 runs,Hamilton,28-Mar-21,T20 # 1233979,Qualifier
+New Zealand,Bangladesh,New Zealand,28 runs,Napier,30-Mar-21,T20 # 1233980,Qualifier
+New Zealand,Bangladesh,New Zealand,65 runs,Auckland,01-Apr-21,T20 # 1233981,Qualifier
+Namibia,Uganda,Namibia,7 wickets,Windhoek,03-Apr-21,T20 # 1257404,Qualifier
+Namibia,Uganda,Namibia,20 runs,Windhoek,05-Apr-21,T20 # 1257405,Qualifier
+Namibia,Uganda,Namibia,65 runs,Windhoek,05-Apr-21,T20 # 1257406,Qualifier
+South Africa,Pakistan,Pakistan,4 wickets,Johannesburg,10-Apr-21,T20 # 1251575,Qualifier
+South Africa,Pakistan,South Africa,6 wickets,Johannesburg,12-Apr-21,T20 # 1251576,Qualifier
+South Africa,Pakistan,Pakistan,9 wickets,Centurion,14-Apr-21,T20 # 1251577,Qualifier
+South Africa,Pakistan,Pakistan,3 wickets,Centurion,16-Apr-21,T20 # 1251578,Qualifier
+Nepal,Netherlands,Nepal,9 wickets,Kirtipur,17-Apr-21,T20 # 1257945,Qualifier
+Malaysia,Netherlands,Netherlands,15 runs,Kirtipur,18-Apr-21,T20 # 1257946,Qualifier
+Nepal,Malaysia,Nepal,9 wickets,Kirtipur,19-Apr-21,T20 # 1257947,Qualifier
+Nepal,Netherlands,Netherlands,3 wickets,Kirtipur,20-Apr-21,T20 # 1257948,Qualifier
+Malaysia,Netherlands,tied,,Kirtipur,21-Apr-21,T20 # 1257949,Qualifier
+Zimbabwe,Pakistan,Pakistan,11 runs,Harare,21-Apr-21,T20 # 1257183,Qualifier
+Nepal,Malaysia,Nepal,69 runs,Kirtipur,22-Apr-21,T20 # 1257950,Qualifier
+Zimbabwe,Pakistan,Zimbabwe,19 runs,Harare,23-Apr-21,T20 # 1257184,Qualifier
+Nepal,Netherlands,Nepal,142 runs,Kirtipur,24-Apr-21,T20 # 1257951,Qualifier
+Zimbabwe,Pakistan,Pakistan,24 runs,Harare,25-Apr-21,T20 # 1257185,Qualifier
+Czech Rep.,Luxembourg,Czech Rep.,9 wickets,Vinor,21-May-21,T20 # 1263708,Qualifier
+Austria,Luxembourg,Austria,5 runs,Vinor,21-May-21,T20 # 1263709,Qualifier
+Czech Rep.,Austria,Austria,78 runs,Vinor,22-May-21,T20 # 1263710,Qualifier
+Czech Rep.,Luxembourg,Luxembourg,6 wickets,Vinor,22-May-21,T20 # 1263711,Qualifier
+Austria,Luxembourg,Luxembourg,5 wickets,Vinor,23-May-21,T20 # 1263712,Qualifier
+Czech Rep.,Austria,Austria,4 wickets,Vinor,23-May-21,T20 # 1263713,Qualifier
+England,Sri Lanka,England,8 wickets,Cardiff,23-Jun-21,T20 # 1249206,Qualifier
+Bulgaria,Serbia,Bulgaria,61 runs,Sofia,24-Jun-21,T20 # 1267305,Qualifier
+Greece,Romania,Romania,3 wickets,Sofia,24-Jun-21,T20 # 1267304,Qualifier
+England,Sri Lanka,England,5 wickets,Cardiff,24-Jun-21,T20 # 1249207,Qualifier
+Greece,Serbia,Greece,5 wickets,Sofia,25-Jun-21,T20 # 1267306,Qualifier
+Bulgaria,Romania,Romania,7 wickets,Sofia,25-Jun-21,T20 # 1267307,Qualifier
+Romania,Serbia,Romania,91 runs,Sofia,25-Jun-21,T20 # 1267308,Qualifier
+Bulgaria,Greece,Bulgaria,64 runs,Sofia,26-Jun-21,T20 # 1267309,Qualifier
+Romania,Serbia,Romania,10 wickets,Sofia,26-Jun-21,T20 # 1267310,Qualifier
+England,Sri Lanka,England,89 runs,Southampton,26-Jun-21,T20 # 1249208,Qualifier
+West Indies,South Africa,West Indies,8 wickets,St George's,26-Jun-21,T20 # 1263151,Qualifier
+Bulgaria,Romania,Romania,7 wickets,Sofia,27-Jun-21,T20 # 1267312,Qualifier
+West Indies,South Africa,South Africa,16 runs,St George's,27-Jun-21,T20 # 1263152,Qualifier
+West Indies,South Africa,South Africa,1 run,St George's,29-Jun-21,T20 # 1263153,Qualifier
+West Indies,South Africa,West Indies,21 runs,St George's,01-Jul-21,T20 # 1263154,Qualifier
+West Indies,South Africa,South Africa,25 runs,St George's,03-Jul-21,T20 # 1263155,Qualifier
+Malta,Belgium,Malta,6 wickets,Marsa,08-Jul-21,T20 # 1268188,Qualifier
+Malta,Belgium,Belgium,10 wickets,Marsa,08-Jul-21,T20 # 1268189,Qualifier
+Malta,Belgium,Belgium,4 wickets,Marsa,09-Jul-21,T20 # 1268190,Qualifier
+West Indies,Australia,West Indies,18 runs,Gros Islet,09-Jul-21,T20 # 1263156,Qualifier
+Malta,Belgium,Malta,,Marsa,10-Jul-21,T20 # 1268191,Qualifier
+Malta,Belgium,Belgium,39 runs,Marsa,10-Jul-21,T20 # 1268192,Qualifier
+West Indies,Australia,West Indies,56 runs,Gros Islet,10-Jul-21,T20 # 1263157,Qualifier
+West Indies,Australia,West Indies,6 wickets,Gros Islet,12-Jul-21,T20 # 1263158,Qualifier
+West Indies,Australia,Australia,4 runs,Gros Islet,14-Jul-21,T20 # 1263159,Qualifier
+England,Pakistan,Pakistan,31 runs,Nottingham,16-Jul-21,T20 # 1239540,Qualifier
+West Indies,Australia,West Indies,16 runs,Gros Islet,16-Jul-21,T20 # 1263160,Qualifier
+England,Pakistan,England,45 runs,Leeds,18-Jul-21,T20 # 1239541,Qualifier
+Ireland,South Africa,South Africa,33 runs,Dublin (Malahide),19-Jul-21,T20 # 1251953,Qualifier
+England,Pakistan,England,3 wickets,Manchester,20-Jul-21,T20 # 1239542,Qualifier
+Zimbabwe,Bangladesh,Bangladesh,8 wickets,Harare,22-Jul-21,T20 # 1267680,Qualifier
+Ireland,South Africa,South Africa,42 runs,Belfast,22-Jul-21,T20 # 1251954,Qualifier
+Zimbabwe,Bangladesh,Zimbabwe,23 runs,Harare,23-Jul-21,T20 # 1267681,Qualifier
+Belgium,Austria,Belgium,7 wickets,Waterloo,24-Jul-21,T20 # 1269836,Qualifier
+Belgium,Austria,Belgium,12 runs,Waterloo,24-Jul-21,T20 # 1269837,Qualifier
+Ireland,South Africa,South Africa,49 runs,Belfast,24-Jul-21,T20 # 1251955,Qualifier
+Belgium,Austria,Austria,6 wickets,Waterloo,25-Jul-21,T20 # 1269838,Qualifier
+Zimbabwe,Bangladesh,Bangladesh,5 wickets,Harare,25-Jul-21,T20 # 1267682,Qualifier
+Sri Lanka,India,India,38 runs,Colombo (RPS),25-Jul-21,T20 # 1262758,Qualifier
+Sri Lanka,India,Sri Lanka,4 wickets,Colombo (RPS),28-Jul-21,T20 # 1262759,Qualifier
+Sri Lanka,India,Sri Lanka,7 wickets,Colombo (RPS),29-Jul-21,T20 # 1262760,Qualifier
+West Indies,Pakistan,Pakistan,7 runs,Providence,31-Jul-21,T20 # 1263165,Qualifier
+Bangladesh,Australia,Bangladesh,23 runs,Mirpur,03-Aug-21,T20 # 1270834,Qualifier
+Bangladesh,Australia,Bangladesh,5 wickets,Mirpur,04-Aug-21,T20 # 1270835,Qualifier
+Germany,Norway,Germany,5 wickets,Krefeld,05-Aug-21,T20 # 1271445,Qualifier
+France,Norway,France,4 wickets,Krefeld,05-Aug-21,T20 # 1271446,Qualifier
+Germany,France,Germany,2 wickets,Krefeld,06-Aug-21,T20 # 1271447,Qualifier
+Bangladesh,Australia,Bangladesh,10 runs,Mirpur,06-Aug-21,T20 # 1270836,Qualifier
+Germany,France,Germany,48 runs,Krefeld,07-Aug-21,T20 # 1271448,Qualifier
+Bangladesh,Australia,Australia,3 wickets,Mirpur,07-Aug-21,T20 # 1270837,Qualifier
+France,Norway,Norway,3 runs,Krefeld,07-Aug-21,T20 # 1271449,Qualifier
+Germany,Norway,Norway,51 runs,Krefeld,08-Aug-21,T20 # 1271450,Qualifier
+Germany,Norway,Germany,6 wickets,Krefeld,08-Aug-21,T20 # 1271451,Qualifier
+Bangladesh,Australia,Bangladesh,60 runs,Mirpur,09-Aug-21,T20 # 1270838,Qualifier
+Denmark,Sweden,Denmark,8 runs,Brondby,14-Aug-21,T20 # 1273132,Qualifier
+Denmark,Sweden,Sweden,3 wickets,Brondby,14-Aug-21,T20 # 1273133,Qualifier
+Denmark,Sweden,Denmark,6 wickets,Brondby,15-Aug-21,T20 # 1273134,Qualifier
+Rwanda,Ghana,Rwanda,1 wicket,Rwanda,18-Aug-21,T20 # 1273141,Qualifier
+Rwanda,Ghana,Ghana,2 wickets,Rwanda,18-Aug-21,T20 # 1273142,Qualifier
+Portugal,Malta,Portugal,6 wickets,Albergaria,19-Aug-21,T20 # 1273135,Qualifier
+Rwanda,Ghana,Rwanda,57 runs,Rwanda,20-Aug-21,T20 # 1273143,Qualifier
+Gibraltar,Malta,Malta,8 wickets,Albergaria,20-Aug-21,T20 # 1273136,Qualifier
+Rwanda,Ghana,Ghana,,Rwanda,20-Aug-21,T20 # 1273144,Qualifier
+Finland,Sweden,Finland,4 wickets,Kerava,21-Aug-21,T20 # 1273146,Qualifier
+Portugal,Gibraltar,Portugal,96 runs,Albergaria,21-Aug-21,T20 # 1273137,Qualifier
+Rwanda,Ghana,Ghana,7 wickets,Rwanda,21-Aug-21,T20 # 1273145,Qualifier
+Finland,Sweden,Finland,4 wickets,Kerava,21-Aug-21,T20 # 1273147,Qualifier
+Gibraltar,Malta,Malta,4 runs,Albergaria,21-Aug-21,T20 # 1273138,Qualifier
+Finland,Sweden,Sweden,3 wickets,Kerava,22-Aug-21,T20 # 1273148,Qualifier
+Portugal,Gibraltar,Portugal,110 runs,Albergaria,22-Aug-21,T20 # 1273139,Qualifier
+Finland,Sweden,Sweden,6 wickets,Kerava,22-Aug-21,T20 # 1273149,Qualifier
+Portugal,Malta,Portugal,3 wickets,Albergaria,22-Aug-21,T20 # 1273140,Qualifier
+Ireland,Zimbabwe,Zimbabwe,3 runs,Dublin,27-Aug-21,T20 # 1272373,Qualifier
+Ireland,Zimbabwe,Ireland,7 wickets,Dublin,29-Aug-21,T20 # 1272374,Qualifier
+Bangladesh,New Zealand,Bangladesh,7 wickets,Mirpur,01-Sep-21,T20 # 1272093,Qualifier
+Ireland,Zimbabwe,Ireland,40 runs,Bready,01-Sep-21,T20 # 1272375,Qualifier
+Bulgaria,Luxembourg,Luxembourg,62 runs,Ilfov County,02-Sep-21,T20 # 1275269,Qualifier
+Czech Rep.,Hungary,Hungary,5 runs,Ilfov County,02-Sep-21,T20 # 1275270,Qualifier
+Luxembourg,Malta,Luxembourg,4 wickets,Ilfov County,02-Sep-21,T20 # 1275267,Qualifier
+Ireland,Zimbabwe,Ireland,64 runs,Bready,02-Sep-21,T20 # 1272376,Qualifier
+Romania,Czech Rep.,Romania,35 runs,Ilfov County,03-Sep-21,T20 # 1275268,Qualifier
+Bulgaria,Malta,Malta,7 wickets,Ilfov County,03-Sep-21,T20 # 1275271,Qualifier
+Bangladesh,New Zealand,Bangladesh,4 runs,Mirpur,03-Sep-21,T20 # 1272094,Qualifier
+Romania,Hungary,Romania,8 runs,Ilfov County,03-Sep-21,T20 # 1275272,Qualifier
+Bulgaria,Czech Rep.,Czech Rep.,7 wickets,Ilfov County,04-Sep-21,T20 # 1275273,Qualifier
+Hungary,Luxembourg,Luxembourg,2 runs,Ilfov County,04-Sep-21,T20 # 1275274,Qualifier
+Romania,Malta,Romania,36 runs,Ilfov County,04-Sep-21,T20 # 1275275,Qualifier
+Ireland,Zimbabwe,Zimbabwe,5 runs,Bready,04-Sep-21,T20 # 1272377,Qualifier
+Romania,Luxembourg,Romania,33 runs,Ilfov County,05-Sep-21,T20 # 1275277,Qualifier
+Bangladesh,New Zealand,New Zealand,52 runs,Mirpur,05-Sep-21,T20 # 1272095,Qualifier
+Hungary,Malta,Hungary,8 wickets,Ilfov County,05-Sep-21,T20 # 1275276,Qualifier
+Bangladesh,New Zealand,Bangladesh,6 wickets,Mirpur,08-Sep-21,T20 # 1272096,Qualifier
+Spain,Germany,Germany,7 wickets,Almeria,10-Sep-21,T20 # 1275052,Qualifier
+Bangladesh,New Zealand,New Zealand,27 runs,Mirpur,10-Sep-21,T20 # 1272097,Qualifier
+Uganda,Kenya,Kenya,22 runs,Entebbe,10-Sep-21,T20 # 1275044,Qualifier
+Sri Lanka,South Africa,South Africa,28 runs,Colombo (RPS),10-Sep-21,T20 # 1271630,Qualifier
+Kenya,Nigeria,Kenya,8 wickets,Entebbe,11-Sep-21,T20 # 1275039,Qualifier
+Spain,Germany,Spain,5 wickets,Almeria,11-Sep-21,T20 # 1275053,Qualifier
+Uganda,Nigeria,Uganda,56 runs,Entebbe,11-Sep-21,T20 # 1275040,Qualifier
+Spain,Germany,Spain,1 wicket,Almeria,11-Sep-21,T20 # 1275054,Qualifier
+Sri Lanka,South Africa,South Africa,9 wickets,Colombo (RPS),12-Sep-21,T20 # 1271631,Qualifier
+Uganda,Nigeria,Uganda,8 wickets,Entebbe,13-Sep-21,T20 # 1275043,Qualifier
+Kenya,Nigeria,Kenya,61 runs,Entebbe,13-Sep-21,T20 # 1275042,Qualifier
+Sri Lanka,South Africa,South Africa,10 wickets,Colombo (RPS),14-Sep-21,T20 # 1271632,Qualifier
+Uganda,Kenya,Uganda,4 wickets,Entebbe,15-Sep-21,T20 # 1275046,Qualifier
+Uganda,Nigeria,Uganda,55 runs,Entebbe,15-Sep-21,T20 # 1275047,Qualifier
+Scotland,Zimbabwe,Scotland,7 runs,Edinburgh,15-Sep-21,T20 # 1273271,Qualifier
+Kenya,Nigeria,Nigeria,4 runs,Entebbe,16-Sep-21,T20 # 1275045,Qualifier
+Uganda,Kenya,Uganda,6 runs,Entebbe,17-Sep-21,T20 # 1275051,Qualifier
+Scotland,Zimbabwe,Zimbabwe,10 runs,Edinburgh,17-Sep-21,T20 # 1273272,Qualifier
+Scotland,Zimbabwe,Zimbabwe,6 wickets,Edinburgh,19-Sep-21,T20 # 1273273,Qualifier
+U.A.E.,Namibia,Namibia,17 runs,ICCA Dubai,05-Oct-21,T20 # 1280057,Qualifier
+Cyprus,Estonia,Cyprus,4 wickets,Episkopi,05-Oct-21,T20 # 1279379,Qualifier
+Cyprus,Estonia,Cyprus,8 wickets,Episkopi,05-Oct-21,T20 # 1279380,Qualifier
+Cyprus,Isle of Man,Isle of Man,8 wickets,Episkopi,06-Oct-21,T20 # 1279381,Qualifier
+Estonia,Isle of Man,Isle of Man,6 wickets,Episkopi,06-Oct-21,T20 # 1279382,Qualifier
+U.A.E.,Ireland,Ireland,7 wickets,ICCA Dubai,07-Oct-21,T20 # 1280060,Qualifier
+Cyprus,Isle of Man,Isle of Man,3 wickets,Episkopi,07-Oct-21,T20 # 1279383,Qualifier
+Cyprus,Estonia,Cyprus,79 runs,Episkopi,07-Oct-21,T20 # 1279384,Qualifier
+U.A.E.,Ireland,U.A.E.,54 runs,ICCA Dubai,08-Oct-21,T20 # 1280061,Qualifier
+Cyprus,Estonia,Cyprus,39 runs,Episkopi,08-Oct-21,T20 # 1279385,Qualifier
+P.N.G.,Scotland,Scotland,8 wickets,ICCA Dubai,08-Oct-21,T20 # 1280063,Qualifier
+Estonia,Isle of Man,Isle of Man,8 wickets,Episkopi,08-Oct-21,T20 # 1279386,Qualifier
+Namibia,Scotland,Namibia,5 wickets,ICCA Dubai,09-Oct-21,T20 # 1280058,Qualifier
+U.A.E.,Ireland,U.A.E.,7 wickets,ICCA Dubai,10-Oct-21,T20 # 1280062,Qualifier
+Namibia,P.N.G.,Namibia,14 runs,ICCA Dubai,10-Oct-21,T20 # 1280059,Qualifier
+Germany,Jersey,Jersey,4 runs,Almeria,15-Oct-21,T20 # 1282738,Qualifier
+Denmark,Italy,Italy,6 wickets,Almeria,15-Oct-21,T20 # 1282739,Qualifier
+Rwanda,Ghana,Ghana,5 wickets,Rwanda,16-Oct-21,T20 # 1283021,Qualifier
+Lesotho,Swaziland,Swaziland,54 runs,Kigali,16-Oct-21,T20 # 1283022,Qualifier
+Denmark,Germany,Germany,6 wickets,Almeria,16-Oct-21,T20 # 1282740,Qualifier
+Ghana,Seychelles,Ghana,9 wickets,Rwanda,16-Oct-21,T20 # 1283023,Qualifier
+Malawi,Uganda,Uganda,10 wickets,Kigali,16-Oct-21,T20 # 1283024,Qualifier
+Italy,Jersey,Jersey,41 runs,Almeria,16-Oct-21,T20 # 1282741,Qualifier
+Lesotho,Seychelles,Seychelles,6 wickets,Rwanda,17-Oct-21,T20 # 1283025,Qualifier
+Malawi,Swaziland,Malawi,8 wickets,Kigali,17-Oct-21,T20 # 1283026,Qualifier
+Denmark,Jersey,Jersey,5 runs,Almeria,17-Oct-21,T20 # 1282742,Qualifier
+Oman,P.N.G.,Oman,10 wickets,Al Amerat,17-Oct-21,T20 # 1273712,World Cup
+Ghana,Lesotho,Ghana,116 runs,Rwanda,17-Oct-21,T20 # 1283027,Qualifier
+Rwanda,Uganda,Uganda,106 runs,Kigali,17-Oct-21,T20 # 1283028,Qualifier
+Germany,Italy,Germany,4 wickets,Almeria,17-Oct-21,T20 # 1282743,Qualifier
+Bangladesh,Scotland,Scotland,6 runs,Al Amerat,17-Oct-21,T20 # 1273713,World Cup
+Ireland,Netherlands,Ireland,7 wickets,Abu Dhabi,18-Oct-21,T20 # 1273714,World Cup
+Namibia,Sri Lanka,Sri Lanka,7 wickets,Abu Dhabi,18-Oct-21,T20 # 1273715,World Cup
+Ghana,Malawi,Ghana,7 wickets,Rwanda,19-Oct-21,T20 # 1283029,Qualifier
+Lesotho,Uganda,Uganda,10 wickets,Kigali,19-Oct-21,T20 # 1283030,Qualifier
+Denmark,Italy,Italy,9 runs,Almeria,19-Oct-21,T20 # 1282744,Qualifier
+Nigeria,Sierra Leone,Sierra Leone,6 wickets,Lagos,19-Oct-21,T20 # 1283089,Qualifier
+P.N.G.,Scotland,Scotland,17 runs,Al Amerat,19-Oct-21,T20 # 1273716,World Cup
+Rwanda,Seychelles,Rwanda,78 runs,Rwanda,19-Oct-21,T20 # 1283031,Qualifier
+Swaziland,Uganda,Uganda,6 wickets,Kigali,19-Oct-21,T20 # 1283032,Qualifier
+Germany,Jersey,Jersey,4 wickets,Almeria,19-Oct-21,T20 # 1282745,Qualifier
+Oman,Bangladesh,Bangladesh,26 runs,Al Amerat,19-Oct-21,T20 # 1273717,World Cup
+Malawi,Seychelles,Malawi,21 runs,Rwanda,20-Oct-21,T20 # 1283033,Qualifier
+Ghana,Swaziland,Ghana,7 wickets,Kigali,20-Oct-21,T20 # 1283034,Qualifier
+Italy,Jersey,Jersey,8 wickets,Almeria,20-Oct-21,T20 # 1282746,Qualifier
+Nigeria,Sierra Leone,Nigeria,6 runs,Lagos,20-Oct-21,T20 # 1283090,Qualifier
+Namibia,Netherlands,Namibia,6 wickets,Abu Dhabi,20-Oct-21,T20 # 1273718,World Cup
+Seychelles,Swaziland,Seychelles,7 wickets,Rwanda,20-Oct-21,T20 # 1283035,Qualifier
+Rwanda,Lesotho,Rwanda,22 runs,Kigali,"Oct 20-21, 2021",T20 # 1283036,Qualifier
+Denmark,Germany,Germany,12 runs,Almeria,20-Oct-21,T20 # 1282747,Qualifier
+Ireland,Sri Lanka,Sri Lanka,70 runs,Abu Dhabi,20-Oct-21,T20 # 1273719,World Cup
+Ghana,Uganda,Uganda,79 runs,Rwanda,21-Oct-21,T20 # 1283037,Qualifier
+Germany,Italy,Italy,1 run,Almeria,21-Oct-21,T20 # 1282748,Qualifier
+Bangladesh,P.N.G.,Bangladesh,84 runs,Al Amerat,21-Oct-21,T20 # 1273720,World Cup
+Malta,Gibraltar,Malta,61 runs,Marsa,21-Oct-21,T20 # 1282272,Qualifier
+Nigeria,Sierra Leone,Nigeria,69 runs,Lagos,21-Oct-21,T20 # 1283091,Qualifier
+Denmark,Jersey,Jersey,4 wickets,Almeria,21-Oct-21,T20 # 1282749,Qualifier
+Oman,Scotland,Scotland,8 wickets,Al Amerat,21-Oct-21,T20 # 1273721,Qualifier
+Rwanda,Swaziland,Rwanda,7 wickets,Rwanda,22-Oct-21,T20 # 1283038,Qualifier
+Lesotho,Malawi,Malawi,22 runs,Kigali,22-Oct-21,T20 # 1283039,Qualifier
+Gibraltar,Switzerland,Switzerland,9 wickets,Marsa,22-Oct-21,T20 # 1282273,Qualifier
+Ireland,Namibia,Namibia,8 wickets,Sharjah,22-Oct-21,T20 # 1273722,World Cup
+Rwanda,Malawi,Malawi,24 runs,Rwanda,22-Oct-21,T20 # 1283040,Qualifier
+Seychelles,Uganda,Uganda,95 runs,Kigali,22-Oct-21,T20 # 1283041,Qualifier
+Bulgaria,Switzerland,Switzerland,8 wickets,Marsa,22-Oct-21,T20 # 1282275,Qualifier
+Netherlands,Sri Lanka,Sri Lanka,8 wickets,Sharjah,22-Oct-21,T20 # 1273723,World Cup
+Bulgaria,Gibraltar,Gibraltar,37 runs,Marsa,23-Oct-21,T20 # 1282274,Qualifier
+Qatar,Bahrain,Bahrain,8 wickets,Doha,23-Oct-21,T20 # 1284488,Qualifier
+Nigeria,Sierra Leone,Nigeria,9 wickets,Lagos,23-Oct-21,T20 # 1283092,Qualifier
+Malta,Switzerland,Switzerland,8 runs,Marsa,23-Oct-21,T20 # 1282276,Qualifier
+Australia,South Africa,Australia,5 wickets,Abu Dhabi,23-Oct-21,T20 # 1273724,World Cup
+Maldives,Saudi Arabia,Saudi Arabia,7 wickets,Doha,23-Oct-21,T20 # 1284489,Qualifier
+Malta,Bulgaria,Malta,6 wickets,Marsa,23-Oct-21,T20 # 1282277,Qualifier
+England,West Indies,England,6 wickets,Dubai (DSC),23-Oct-21,T20 # 1273725,World Cup
+Bahrain,Kuwait,Kuwait,6 wickets,Doha,24-Oct-21,T20 # 1284490,Qualifier
+Bulgaria,Gibraltar,Bulgaria,6 wickets,Marsa,24-Oct-21,T20 # 1282278,Qualifier
+Bangladesh,Sri Lanka,Sri Lanka,5 wickets,Sharjah,24-Oct-21,T20 # 1273726,World Cup
+Qatar,Maldives,Qatar,98 runs,Doha,24-Oct-21,T20 # 1284491,Qualifier
+Malta,Switzerland,Malta,6 runs,Marsa,24-Oct-21,T20 # 1282279,Qualifier
+Nigeria,Sierra Leone,Nigeria,19 runs,Lagos,24-Oct-21,T20 # 1283093,Qualifier
+India,Pakistan,Pakistan,10 wickets,Dubai (DSC),24-Oct-21,T20 # 1273727,World Cup
+Kuwait,Saudi Arabia,Saudi Arabia,4 wickets,Doha,25-Oct-21,T20 # 1284492,Qualifier
+Malta,Gibraltar,tied,,Marsa,25-Oct-21,T20 # 1282281,Qualifier
+Afghanistan,Scotland,Afghanistan,130 runs,Sharjah,25-Oct-21,T20 # 1273728,World Cup
+Nigeria,Sierra Leone,Nigeria,36 runs,Lagos,26-Oct-21,T20 # 1283094,Qualifier
+South Africa,West Indies,South Africa,8 wickets,Dubai (DSC),26-Oct-21,T20 # 1273729,World Cup
+New Zealand,Pakistan,Pakistan,5 wickets,Sharjah,26-Oct-21,T20 # 1273730,World Cup
+Bahrain,Maldives,Bahrain,7 wickets,Doha,27-Oct-21,T20 # 1284493,Qualifier
+Bangladesh,England,England,8 wickets,Abu Dhabi,27-Oct-21,T20 # 1273731,World Cup
+Qatar,Saudi Arabia,Qatar,5 wickets,Doha,27-Oct-21,T20 # 1284494,Qualifier
+Namibia,Scotland,Namibia,4 wickets,Abu Dhabi,27-Oct-21,T20 # 1273732,World Cup
+Kuwait,Maldives,Kuwait,5 wickets,Doha,28-Oct-21,T20 # 1284495,Qualifier
+Australia,Sri Lanka,Australia,7 wickets,Dubai (DSC),28-Oct-21,T20 # 1273733,World Cup
+Bahrain,Saudi Arabia,Bahrain,18 runs,Doha,28-Oct-21,T20 # 1284496,Qualifier
+Bangladesh,West Indies,West Indies,3 runs,Sharjah,29-Oct-21,T20 # 1273734,World Cup
+Qatar,Kuwait,Qatar,2 wickets,Doha,29-Oct-21,T20 # 1284497,Qualifier
+Afghanistan,Pakistan,Pakistan,5 wickets,Dubai (DSC),29-Oct-21,T20 # 1273735,World Cup
+South Africa,Sri Lanka,South Africa,4 wickets,Sharjah,30-Oct-21,T20 # 1273736,World Cup
+Australia,England,England,8 wickets,Dubai (DSC),30-Oct-21,T20 # 1273737,World Cup
+Afghanistan,Namibia,Afghanistan,62 runs,Abu Dhabi,31-Oct-21,T20 # 1273738,World Cup
+India,New Zealand,New Zealand,8 wickets,Dubai (DSC),31-Oct-21,T20 # 1273739,World Cup
+England,Sri Lanka,England,26 runs,Sharjah,01-Nov-21,T20 # 1273740,World Cup
+Botswana,Sierra Leone,Botswana,72 runs,Rwanda,02-Nov-21,T20 # 1283042,Qualifier
+Bangladesh,South Africa,South Africa,6 wickets,Abu Dhabi,02-Nov-21,T20 # 1273741,World Cup
+Mozambique,Tanzania,Tanzania,87 runs,Rwanda,02-Nov-21,T20 # 1283043,Qualifier
+Namibia,Pakistan,Pakistan,45 runs,Abu Dhabi,02-Nov-21,T20 # 1273742,World Cup
+Cameroon,Mozambique,Mozambique,171 runs,Rwanda,03-Nov-21,T20 # 1283044,Qualifier
+New Zealand,Scotland,New Zealand,16 runs,Dubai (DSC),03-Nov-21,T20 # 1273743,World Cup
+Sierra Leone,Tanzania,Tanzania,8 wickets,Rwanda,03-Nov-21,T20 # 1283045,Qualifier
+Afghanistan,India,India,66 runs,Abu Dhabi,03-Nov-21,T20 # 1273744,World Cup
+Australia,Bangladesh,Australia,8 wickets,Dubai (DSC),04-Nov-21,T20 # 1273745,World Cup
+Sri Lanka,West Indies,Sri Lanka,20 runs,Abu Dhabi,04-Nov-21,T20 # 1273746,World Cup
+Botswana,Cameroon,Botswana,9 wickets,Rwanda,05-Nov-21,T20 # 1283046,Qualifier
+Namibia,New Zealand,New Zealand,52 runs,Sharjah,05-Nov-21,T20 # 1273747,World Cup
+Mozambique,Sierra Leone,Sierra Leone,5 wickets,Rwanda,05-Nov-21,T20 # 1283047,Qualifier
+India,Scotland,India,8 wickets,Dubai (DSC),05-Nov-21,T20 # 1273748,World Cup
+Botswana,Mozambique,Botswana,52 runs,Rwanda,06-Nov-21,T20 # 1283048,Qualifier
+Australia,West Indies,Australia,8 wickets,Abu Dhabi,06-Nov-21,T20 # 1273749,World Cup
+Cameroon,Tanzania,Tanzania,178 runs,Rwanda,06-Nov-21,T20 # 1283049,Qualifier
+England,South Africa,South Africa,10 runs,Sharjah,06-Nov-21,T20 # 1273750,World Cup
+Cameroon,Sierra Leone,Sierra Leone,6 wickets,Rwanda,07-Nov-21,T20 # 1283050,Qualifier
+Afghanistan,New Zealand,New Zealand,8 wickets,Abu Dhabi,07-Nov-21,T20 # 1273751,World Cup
+Botswana,Tanzania,Tanzania,3 runs,Rwanda,07-Nov-21,T20 # 1283051,Qualifier
+Belize,U.S.A.,U.S.A.,10 wickets,Coolidge,07-Nov-21,T20 # 1286667,Qualifier
+Bahamas,Canada,Canada,122 runs,North Sound,07-Nov-21,T20 # 1286668,Qualifier
+Pakistan,Scotland,Pakistan,72 runs,Sharjah,07-Nov-21,T20 # 1273752,World Cup
+Panama,U.S.A.,U.S.A.,9 wickets,Coolidge,07-Nov-21,T20 # 1286669,Qualifier
+Belize,Canada,Canada,145 runs,Coolidge,08-Nov-21,T20 # 1286670,Qualifier
+Argentina,Bahamas,Bahamas,12 runs,North Sound,08-Nov-21,T20 # 1286671,Qualifier
+India,Namibia,India,9 wickets,Dubai (DSC),08-Nov-21,T20 # 1273753,World Cup
+Belize,Panama,Belize,12 runs,Coolidge,08-Nov-21,T20 # 1286672,Qualifier
+Bermuda,U.S.A.,U.S.A.,23 runs,North Sound,08-Nov-21,T20 # 1286673,Qualifier
+Bahamas,Bermuda,Bermuda,140 runs,Coolidge,10-Nov-21,T20 # 1286677,Qualifier
+Argentina,Belize,Argentina,59 runs,North Sound,10-Nov-21,T20 # 1286675,Qualifier
+England,New Zealand,New Zealand,5 wickets,Abu Dhabi,10-Nov-21,T20 # 1273754,World Cup
+Canada,U.S.A.,tied,,Coolidge,10-Nov-21,T20 # 1286674,Qualifier
+Argentina,Panama,Argentina,45 runs,North Sound,10-Nov-21,T20 # 1286676,Qualifier
+Bermuda,Canada,Canada,46 runs,Coolidge,11-Nov-21,T20 # 1286678,Qualifier
+Bahamas,Belize,Bahamas,11 runs,North Sound,11-Nov-21,T20 # 1286679,Qualifier
+Australia,Pakistan,Australia,5 wickets,Dubai (DSC),11-Nov-21,T20 # 1273755,World Cup
+Bermuda,Panama,Bermuda,86 runs,Coolidge,11-Nov-21,T20 # 1286680,Qualifier
+Argentina,U.S.A.,U.S.A.,8 wickets,North Sound,11-Nov-21,T20 # 1286681,Qualifier
+Bahamas,U.S.A.,U.S.A.,10 wickets,Coolidge,13-Nov-21,T20 # 1286682,Qualifier
+Belize,Bermuda,Bermuda,7 wickets,North Sound,13-Nov-21,T20 # 1286683,Qualifier
+Bahamas,Panama,Panama,26 runs,Coolidge,13-Nov-21,T20 # 1286684,Qualifier
+Argentina,Canada,Canada,9 wickets,North Sound,13-Nov-21,T20 # 1286685,Qualifier
+Canada,Panama,Canada,208 runs,Coolidge,14-Nov-21,T20 # 1286686,Qualifier
+Australia,New Zealand,Australia,8 wickets,Dubai (DSC),14-Nov-21,T20 # 1273756,World Cup
+Argentina,Bermuda,Bermuda,3 wickets,Coolidge,14-Nov-21,T20 # 1286687,Qualifier
+Nigeria,Tanzania,Tanzania,6 wickets,Rwanda,17-Nov-21,T20 # 1289042,Qualifier
+Kenya,Uganda,Kenya,1 run,Kigali,17-Nov-21,T20 # 1289043,Qualifier
+Nigeria,Uganda,Uganda,12 runs,Rwanda,17-Nov-21,T20 # 1289044,Qualifier
+Kenya,Tanzania,Tanzania,49 runs,Kigali,17-Nov-21,T20 # 1289045,Qualifier
+India,New Zealand,India,5 wickets,Jaipur,17-Nov-21,T20 # 1278671,Qualifier
+Tanzania,Uganda,Uganda,8 wickets,Rwanda,18-Nov-21,T20 # 1289046,Qualifier
+Kenya,Nigeria,Kenya,8 wickets,Kigali,18-Nov-21,T20 # 1289047,Qualifier
+Kenya,Tanzania,Kenya,7 wickets,Rwanda,18-Nov-21,T20 # 1289048,Qualifier
+Nigeria,Uganda,Uganda,8 wickets,Kigali,18-Nov-21,T20 # 1289049,Qualifier
+Bangladesh,Pakistan,Pakistan,4 wickets,Mirpur,19-Nov-21,T20 # 1277974,Qualifier
+India,New Zealand,India,7 wickets,Ranchi,19-Nov-21,T20 # 1278672,Qualifier
+Tanzania,Uganda,Uganda,6 wickets,Rwanda,20-Nov-21,T20 # 1289050,Qualifier
+Kenya,Nigeria,Kenya,60 runs,Kigali,20-Nov-21,T20 # 1289051,Qualifier
+Bangladesh,Pakistan,Pakistan,8 wickets,Mirpur,20-Nov-21,T20 # 1277975,Qualifier
+Kenya,Uganda,Uganda,6 wickets,Rwanda,20-Nov-21,T20 # 1289052,Qualifier
+Nigeria,Tanzania,Tanzania,69 runs,Kigali,20-Nov-21,T20 # 1289053,Qualifier
+India,New Zealand,India,73 runs,Eden Gardens,21-Nov-21,T20 # 1278673,Qualifier
+Bangladesh,Pakistan,Pakistan,5 wickets,Mirpur,22-Nov-21,T20 # 1277976,Qualifier
+Pakistan,West Indies,Pakistan,63 runs,Karachi,13-Dec-21,T20 # 1287773,Qualifier
+Pakistan,West Indies,Pakistan,9 runs,Karachi,14-Dec-21,T20 # 1287774,Qualifier
+Pakistan,West Indies,Pakistan,7 wickets,Karachi,16-Dec-21,T20 # 1287775,Qualifier
+U.S.A.,Ireland,U.S.A.,26 runs,Lauderhill,22-Dec-21,T20 # 1291187,Qualifier
+U.S.A.,Ireland,Ireland,9 runs,Lauderhill,23-Dec-21,T20 # 1291188,Qualifier
+India,Sri Lanka,India,7 wickets,Indore,07-Jan-20,T20 # 1202243,Qualifier
+India,Sri Lanka,India,78 runs,Pune,10-Jan-20,T20 # 1202244,Qualifier
+West Indies,Ireland,Ireland,4 runs,St George's,15-Jan-20,T20 # 1203676,Qualifier
+West Indies,Ireland,West Indies,9 wickets,Basseterre,19-Jan-20,T20 # 1203678,Qualifier
+New Zealand,India,India,6 wickets,Auckland,24-Jan-20,T20 # 1187677,Qualifier
+Pakistan,Bangladesh,Pakistan,5 wickets,Lahore,24-Jan-20,T20 # 1213058,Qualifier
+Pakistan,Bangladesh,Pakistan,9 wickets,Lahore,25-Jan-20,T20 # 1213059,Qualifier
+New Zealand,India,India,7 wickets,Auckland,26-Jan-20,T20 # 1187678,Qualifier
+New Zealand,India,tied,,Hamilton,29-Jan-20,T20 # 1187679,Qualifier
+New Zealand,India,tied,,Wellington,31-Jan-20,T20 # 1187680,Qualifier
+New Zealand,India,India,7 runs,Mount Maunganui,02-Feb-20,T20 # 1187681,Qualifier
+Qatar,Uganda,Qatar,40 runs,Doha,12-Feb-20,T20 # 1215133,Qualifier
+South Africa,England,South Africa,1 run,East London,12-Feb-20,T20 # 1185313,Qualifier
+Qatar,Uganda,Qatar,28 runs,Doha,13-Feb-20,T20 # 1215134,Qualifier
+South Africa,England,England,2 runs,Durban,14-Feb-20,T20 # 1185314,Qualifier
+Qatar,Uganda,Uganda,18 runs,Doha,15-Feb-20,T20 # 1215135,Qualifier
+South Africa,England,England,5 wickets,Centurion,16-Feb-20,T20 # 1185315,Qualifier
+Malaysia,Hong Kong,Malaysia,21 runs,Kuala Lumpur,20-Feb-20,T20 # 1215136,Qualifier
+Malaysia,Hong Kong,Malaysia,35 runs,Kuala Lumpur,21-Feb-20,T20 # 1215137,Qualifier
+South Africa,Australia,Australia,107 runs,Johannesburg,21-Feb-20,T20 # 1185316,Qualifier
+Iran,U.A.E.,U.A.E.,10 wickets,Al Amerat,23-Feb-20,T20 # 1215152,Qualifier
+Maldives,Qatar,Qatar,106 runs,Al Amerat,23-Feb-20,T20 # 1215151,Qualifier
+Kuwait,Saudi Arabia,Kuwait,9 wickets,Al Amerat,23-Feb-20,T20 # 1215154,Qualifier
+Oman,Bahrain,Oman,8 wickets,Al Amerat,23-Feb-20,T20 # 1215153,Qualifier
+Malaysia,Hong Kong,Malaysia,8 runs,Kuala Lumpur,23-Feb-20,T20 # 1215138,Qualifier
+South Africa,Australia,South Africa,12 runs,Gqeberha,23-Feb-20,T20 # 1185317,Qualifier
+Iran,Saudi Arabia,Saudi Arabia,9 wickets,Al Amerat,24-Feb-20,T20 # 1215155,Qualifier
+Oman,Qatar,Qatar,34 runs,Al Amerat,24-Feb-20,T20 # 1215156,Qualifier
+Malaysia,Hong Kong,Malaysia,13 runs,Kuala Lumpur,24-Feb-20,T20 # 1215139,Qualifier
+Bahrain,Maldives,Bahrain,65 runs,Al Amerat,24-Feb-20,T20 # 1215158,Qualifier
+Kuwait,U.A.E.,U.A.E.,47 runs,Al Amerat,24-Feb-20,T20 # 1215157,Qualifier
+Oman,Maldives,Oman,10 wickets,Al Amerat,25-Feb-20,T20 # 1215159,Qualifier
+Saudi Arabia,U.A.E.,U.A.E.,12 runs,Al Amerat,25-Feb-20,T20 # 1215160,Qualifier
+Bahrain,Qatar,Bahrain,6 wickets,Al Amerat,25-Feb-20,T20 # 1215161,Qualifier
+Iran,Kuwait,Kuwait,8 wickets,Al Amerat,25-Feb-20,T20 # 1215162,Qualifier
+Malaysia,Hong Kong,Malaysia,6 wickets,Kuala Lumpur,26-Feb-20,T20 # 1215140,Qualifier
+Bahrain,Kuwait,Kuwait,87 runs,Al Amerat,26-Feb-20,T20 # 1215163,Qualifier
+Qatar,U.A.E.,U.A.E.,28 runs,Al Amerat,26-Feb-20,T20 # 1215164,Qualifier
+South Africa,Australia,Australia,97 runs,Cape Town,26-Feb-20,T20 # 1185318,Qualifier
+Kuwait,U.A.E.,U.A.E.,102 runs,Al Amerat,27-Feb-20,T20 # 1215165,Qualifier
+Thailand,Singapore,Singapore,43 runs,Bangkok,29-Feb-20,T20 # 1217738,Qualifier
+Malaysia,Nepal,Malaysia,22 runs,Bangkok,29-Feb-20,T20 # 1217739,Qualifier
+Hong Kong,Nepal,Hong Kong,43 runs,Bangkok,01-Mar-20,T20 # 1217740,Qualifier
+Thailand,Malaysia,Malaysia,8 wickets,Bangkok,01-Mar-20,T20 # 1217741,Qualifier
+Malaysia,Singapore,Singapore,128 runs,Bangkok,03-Mar-20,T20 # 1217742,Qualifier
+Thailand,Hong Kong,Hong Kong,8 wickets,Bangkok,03-Mar-20,T20 # 1217743,Qualifier
+Thailand,Nepal,Nepal,9 wickets,Bangkok,04-Mar-20,T20 # 1217744,Qualifier
+Hong Kong,Singapore,Singapore,16 runs,Bangkok,04-Mar-20,T20 # 1217745,Qualifier
+Sri Lanka,West Indies,West Indies,25 runs,Pallekele,04-Mar-20,T20 # 1213874,Qualifier
+Hong Kong,Malaysia,Hong Kong,6 wickets,Bangkok,06-Mar-20,T20 # 1217747,Qualifier
+Afghanistan,Ireland,Afghanistan,11 runs,Greater Noida,06-Mar-20,T20 # 1216416,Qualifier
+Sri Lanka,West Indies,West Indies,7 wickets,Pallekele,06-Mar-20,T20 # 1213875,Qualifier
+Afghanistan,Ireland,Afghanistan,21 runs,Greater Noida,08-Mar-20,T20 # 1216417,Qualifier
+Spain,Germany,Spain,9 wickets,Almeria,08-Mar-20,T20 # 1207081,Qualifier
+Spain,Germany,Germany,58 runs,Almeria,08-Mar-20,T20 # 1207082,Qualifier
+Bangladesh,Zimbabwe,Bangladesh,48 runs,Mirpur,09-Mar-20,T20 # 1214670,Qualifier
+Afghanistan,Ireland,tied,,Greater Noida,10-Mar-20,T20 # 1216418,Qualifier
+Bangladesh,Zimbabwe,Bangladesh,9 wickets,Mirpur,11-Mar-20,T20 # 1214671,Qualifier
+Guernsey,Isle of Man,Guernsey,8 wickets,St Peter Port,21-Aug-20,T20 # 1229824,Qualifier
+Luxembourg,Czech Rep.,Luxembourg,63 runs,Walferdange,28-Aug-20,T20 # 1229818,Qualifier
+Luxembourg,Czech Rep.,Czech Rep.,5 wickets,Walferdange,29-Aug-20,T20 # 1229819,Qualifier
+Luxembourg,Belgium,Belgium,37 runs,Walferdange,29-Aug-20,T20 # 1229820,Qualifier
+Belgium,Czech Rep.,Belgium,46 runs,Walferdange,29-Aug-20,T20 # 1229821,Qualifier
+Belgium,Czech Rep.,Belgium,87 runs,Walferdange,30-Aug-20,T20 # 1229822,Qualifier
+Luxembourg,Belgium,Belgium,49 runs,Walferdange,30-Aug-20,T20 # 1229823,Qualifier
+England,Pakistan,England,5 wickets,Manchester,30-Aug-20,T20 # 1198245,Qualifier
+England,Pakistan,Pakistan,5 runs,Manchester,01-Sep-20,T20 # 1198246,Qualifier
+England,Australia,England,2 runs,Southampton,04-Sep-20,T20 # 1198235,Qualifier
+England,Australia,England,6 wickets,Southampton,06-Sep-20,T20 # 1198236,Qualifier
+England,Australia,Australia,5 wickets,Southampton,08-Sep-20,T20 # 1198237,Qualifier
+Bulgaria,Malta,Malta,57 runs,Sofia,23-Sep-20,T20 # 1233064,Qualifier
+Bulgaria,Malta,Malta,8 wickets,Sofia,23-Sep-20,T20 # 1233065,Qualifier
+Romania,Bulgaria,Bulgaria,33 runs,Ilfov County,16-Oct-20,T20 # 1235829,Qualifier
+Romania,Bulgaria,Romania,52 runs,Ilfov County,17-Oct-20,T20 # 1235830,Qualifier
+Romania,Bulgaria,Romania,34 runs,Ilfov County,17-Oct-20,T20 # 1235831,Qualifier
+Romania,Bulgaria,Romania,6 wickets,Ilfov County,18-Oct-20,T20 # 1235832,Qualifier
+Pakistan,Zimbabwe,Pakistan,6 wickets,Rawalpindi,07-Nov-20,T20 # 1233464,Qualifier
+Pakistan,Zimbabwe,Pakistan,8 wickets,Rawalpindi,08-Nov-20,T20 # 1233465,Qualifier
+Pakistan,Zimbabwe,Pakistan,8 wickets,Rawalpindi,10-Nov-20,T20 # 1233466,Qualifier
+New Zealand,West Indies,New Zealand,5 wickets,Auckland,27-Nov-20,T20 # 1233954,Qualifier
+South Africa,England,England,5 wickets,Cape Town,27-Nov-20,T20 # 1237122,Qualifier
+New Zealand,West Indies,New Zealand,72 runs,Mount Maunganui,29-Nov-20,T20 # 1233955,Qualifier
+South Africa,England,England,4 wickets,Paarl,29-Nov-20,T20 # 1237123,Qualifier
+South Africa,England,England,9 wickets,Cape Town,01-Dec-20,T20 # 1237124,Qualifier
+Australia,India,India,11 runs,Canberra,04-Dec-20,T20 # 1223952,Qualifier
+Australia,India,India,6 wickets,Sydney,06-Dec-20,T20 # 1223953,Qualifier
+Australia,India,Australia,12 runs,Sydney,08-Dec-20,T20 # 1223954,Qualifier
+New Zealand,Pakistan,New Zealand,5 wickets,Auckland,18-Dec-20,T20 # 1233959,Qualifier
+New Zealand,Pakistan,New Zealand,9 wickets,Hamilton,20-Dec-20,T20 # 1233960,Qualifier
+New Zealand,Pakistan,Pakistan,4 wickets,Napier,22-Dec-20,T20 # 1233961,Qualifier
