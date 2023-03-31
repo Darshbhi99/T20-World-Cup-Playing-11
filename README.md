@@ -3,7 +3,7 @@
 
 This project is about find the best combination squad for T20 World Cup
 
- Tables of Player Stats:
+## Tables of Player Stats:
 
 1. Batting Info Table :-
     This table contains batting data for players who played in matches between 
